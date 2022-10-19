@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://shiroichi315.github.io/home"
+base_url = "https://boykush.github.io/home"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -12,7 +12,7 @@ highlight_theme = "demain"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "Shiroichi's Diary"
+title = "Kush Diary"
 description = "ソフトウェアエンジニア。猫とボルダリングとサウナが好き"
 
 generate_feed = true

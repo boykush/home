@@ -12,7 +12,7 @@ tags = [ "Poem" ]
 
 整理した結果は以下のようになった。
 
-![](https://github.com/shiroichi315/home/blob/main/content/diary/organized-my-skills.png?raw=true)
+![](https://github.com/boykush/home/blob/main/content/diary/organized-my-skills.png?raw=true)
 
 ## やってみて思ったこと
 
