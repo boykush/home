@@ -36,8 +36,8 @@ icon = "icon.jpeg"
 cover = "cover.jpeg"
 profile_small = "icon.jpeg"
 
-accent = "#4169e1"
-accent_light = "#b0c4de"
+accent = "#1e50a2"
+accent_light = "#4c6cb3"
 
 author = "John Doe"
 
