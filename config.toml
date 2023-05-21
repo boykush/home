@@ -33,3 +33,7 @@ stylesheets = [
     "fonts.css",
     "thumbnail.css"
 ]
+
+[extra.analytics]
+enabled = true
+goatcounter_user = "boykush"
