@@ -1,0 +1,35 @@
+base_url = "https://boykush.github.io/"
+
+title = "Kush's Home"
+description = "ソフトウェアエンジニア。何かを作る人"
+
+default_language = "ja"
+
+theme = "apollo"
+
+compile_sass = true
+
+taxonomies = [
+  { name = "tags" }
+]
+
+[extra]
+theme = "auto"
+toc = true
+favicon = "https://avatars.githubusercontent.com/u/23194090?v=4"
+
+menu = [
+    { name = "/diary", url = "/diary", weight = 1 },
+    { name = "/about", url = "/about", weight = 2 },
+]
+
+socials = [
+  { name = "github", url = "https://github.com/boykush", icon = "github" },
+  { name = "twitter", url = "https://twitter.com/boykush315", icon = "twitter" },
+]
+
+stylesheets = [
+    "colors.css",
+    "fonts.css",
+    "thumbnail.css"
+]

@@ -1,0 +1,13 @@
+@import "./_nord.scss";
+
+:root {
+  --text-0: #{$nord4};
+  --text-1: #{$nord5};
+
+  --bg-0: #{$nord0};
+  --bg-1: #{$nord1};
+  --bg-2: #{$nord2};
+
+  --primary-color: #{$nord10};
+  --hover-color: white;
+}

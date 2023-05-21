@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Hack';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/Hack-Regular.ttf'), local('ttf');
+  font-display: swap;
+}
+
+:root {
+    --text-font: 'Hack';
+    --header-font: 'Hack';
+}
