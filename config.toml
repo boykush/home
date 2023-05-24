@@ -8,10 +8,16 @@ default_language = "ja"
 theme = "apollo"
 
 compile_sass = true
+generate_feed = true
+minify_html = true
 
 taxonomies = [
-  { name = "tags" }
+  { name = "tags", feed = true }
 ]
+
+[markdown]
+highlight_code = true
+highlight_theme = "nord"
 
 [extra]
 theme = "auto"
