@@ -5,7 +5,7 @@ date = 2023-04-21
 tags=["Read"]
 +++
 
-<img class="thumbnail" src="https://m.media-amazon.com/images/I/51CaA7dryjL._SX218_BO1,204,203,200_QL40_ML2_.jpg" />
+{{thumbnail(src="https://m.media-amazon.com/images/I/51CaA7dryjL._SX218_BO1,204,203,200_QL40_ML2_.jpg")}}
 
 # はじめに
 業務でOAuthクライアントの運用・保守はしているが、OAuthを基礎から学んだことがなかったので基礎を固めるために読んだ本。
