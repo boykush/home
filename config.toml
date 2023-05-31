@@ -42,4 +42,4 @@ stylesheets = [
 
 [extra.analytics]
 enabled = true
-goatcounter_user = "boykush"
+ga_id = "G-X6KGCVNLWP"
