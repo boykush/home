@@ -19,5 +19,5 @@ Year of Birth: 1997
    <a href="https://speakerdeck.com/boykush" rel="noopener" target="_blank">Speacker Deck</a>
 </div>
 <div>
-   <a href="https://www.notion.so/boykush/43264b501a54481bb194311b46a74472?v=4cf0b65ae7c84f7b8a1ebe0adc293a2d" rel="noopener" target="_blank">Bookshelf</a>
+   <a href="https://boykush.github.io/wiki/" rel="noopener" target="_blank">Wiki</a>
 </div>
