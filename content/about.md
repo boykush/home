@@ -3,7 +3,7 @@ title = "@boykush"
 path = "about"
 +++
 
-Software Design | Agile | FP | DevOps | SRE | Testing
+#Software Design #Agile #FP #DevOps #SRE #Testing
 
 Year of Birth: 1997
 
