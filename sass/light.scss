@@ -1,0 +1,13 @@
+@import "./_nord.scss";
+
+:root.light {
+  --text-0: #{$nord0};
+  --text-1: #{$nord1};
+
+  --bg-0: #{$nord4};
+  --bg-1: #{$nord0};
+  --bg-2: #{$nord6};
+
+  --primary-color: #{$nord10};
+  --hover-color: white;
+}
