@@ -32,7 +32,7 @@ menu = [
 
 socials = [
   { name = "github", url = "https://github.com/boykush", icon = "github" },
-  { name = "twitter", url = "https://twitter.com/boykush315", icon = "twitter" },
+  { name = "x-twitter", url = "https://twitter.com/boykush315", icon = "x-twitter" },
 ]
 
 stylesheets = [
