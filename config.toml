@@ -26,7 +26,7 @@ favicon = "https://avatars.githubusercontent.com/u/23194090?v=4"
 
 menu = [
     { name = "/diaries", url = "/diaries", weight = 1 },
-    { name = "/principle", url = "/principle", weight = 2 },
+    { name = "/projects", url = "/projects", weight = 2 },
     { name = "/about", url = "/about", weight = 3 },
 ]
 
