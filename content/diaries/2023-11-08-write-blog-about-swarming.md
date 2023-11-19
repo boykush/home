@@ -7,7 +7,7 @@ tags=["Agile"]
 
 MediumにAgileやScrum文脈で語られるSwarmingについてのブログを投稿した
 
-[“群れる” アジャイルチームのベストプラクティス  | by boykush  | Medium](https://medium.com/@boykush/b2f002831d18)
+[“群れる” アジャイルチームのベストプラクティス  | by boykush  | Medium](https://medium.com/@boykush/best-practices-for-swarming-agile-team-9e2aef20f74e)
 
 Agile周辺は知識と実践の両方が身についてきたのでキャリアとして強みにしていくのもありか？と思いつつ、会社に所属しているときは必要とされる役割を担うだけなのでそこまでこだわりを持てていない。
 
