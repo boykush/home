@@ -1,4 +1,4 @@
 +++
 [extra]
-section_path = "diary/_index.md"
+section_path = "diaries/_index.md"
 +++
