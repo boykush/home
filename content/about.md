@@ -3,7 +3,8 @@ title = "@boykush"
 path = "about"
 +++
 
-Year of Birth: 1997
+- Country: Japan
+- Year of Birth: 1997
 
 <div>
    <a href="https://github.com/boykush" rel="noopener" target="_blank">GitHub</a>
