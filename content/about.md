@@ -10,7 +10,13 @@ path = "about"
    <a href="https://github.com/boykush" rel="noopener" target="_blank">GitHub</a>
 </div>
 <div>
-   <a href="https://twitter.com/boykush315" rel="noopener" target="_blank">X (Twitter)</a>
+   <a href="https://twitter.com/boykush315" rel="noopener" target="_blank">X</a>
+</div>
+<div>
+   <a href="https://speakerdeck.com/boykush" rel="noopener" target="_blank">SpeakerDeck</a>
+</div>
+<div>
+   <a href="https://medium.com/@boykush" rel="noopener" target="_blank">Medium</a>
 </div>
 
 --- 
