@@ -2,7 +2,7 @@
 title = "「OAuth徹底入門 セキュアな認可システムを適用するための原則と実践」を読んだ"
 date = 2023-04-21
 [taxonomies]
-tags=["Read"]
+tags=["Input", "Tech"]
 +++
 
 {{thumbnail(src="https://m.media-amazon.com/images/I/51CaA7dryjL._SX218_BO1,204,203,200_QL40_ML2_.jpg")}}

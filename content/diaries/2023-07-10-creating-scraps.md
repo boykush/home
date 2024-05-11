@@ -2,7 +2,7 @@
 title = "ScrapsというWiki用のSSGを作っている話"
 date = 2023-07-10
 [taxonomies]
-tags=["Tech"]
+tags=["Tech", "Output"]
 +++
 
 # はじめに

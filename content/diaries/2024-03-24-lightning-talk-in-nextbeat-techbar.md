@@ -2,7 +2,7 @@
 title = "「第一回ソフトウェアテストについて考える会」というイベントでLTをした"
 date = 2024-03-24
 [taxonomies]
-tags=["Testing"]
+tags=["Testing", "Output"]
 +++
 
 3/22（金）に[Nextbeat Tech Bar：第一回ソフトウェアテストについて考える会](https://nextbeat.connpass.com/event/309287/)というイベントでLTをしてきた

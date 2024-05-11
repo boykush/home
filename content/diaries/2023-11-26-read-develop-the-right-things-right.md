@@ -2,7 +2,7 @@
 title = "「正しいものを正しくつくる」を読んだ"
 date = 2023-11-26
 [taxonomies]
-tags=["Read", "Agile"]
+tags=["Input", "Agile"]
 +++
 
 {{thumbnail(src="https://m.media-amazon.com/images/I/41txD1eZGrL._SY445_SX342_.jpg")}}

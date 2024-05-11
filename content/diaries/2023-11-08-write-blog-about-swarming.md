@@ -2,7 +2,7 @@
 title = "Swarmingに関するブログを書いた"
 date = 2023-11-08
 [taxonomies]
-tags=["Agile"]
+tags=["Agile", "Output"]
 +++
 
 MediumにAgileやScrum文脈で語られるSwarmingについてのブログを投稿した

@@ -2,7 +2,7 @@
 title = "「Programming in Haskell 2nd edition」を読んだ"
 date = 2023-04-04
 [taxonomies]
-tags=["Read"]
+tags=["Input", "Tech"]
 +++
 
 {{thumbnail(src="https://cdn.shopify.com/s/files/1/1634/7169/products/cover_530x.png?v=1564720482")}}
