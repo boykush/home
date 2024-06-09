@@ -49,9 +49,9 @@ sbtのようなビルドツールの中で、sbt,Zinc,scalacのレイヤがど�
 
 直近のビルド高速化リリースタイムラインも紹介され、ミッションをやりきってリリースまで持っていく執念のようなものを感じた。とてもすごいと思ったし自分もそうありたい。
 
-### [作って学ぶ Extensible Effects](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_04）
-
+### [作って学ぶ Extensible Effects](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_04)
 発表資料は以下
+
 [Google Doc](https://docs.google.com/presentation/d/1raybiE8Otk2nreKDyRHoF1HK50K9K-fjL8-37QK8kW4/edit?usp=sharing)
 
 こちらは個人的に業務でatnos-effライブラリを使っていることもあり、ライブラリを内部を理解できるよう意気込んでいたセッション
