@@ -13,7 +13,7 @@ Xのハッシュタグは `#ScalaMatsuri`
 
 コロナ前ぶりの完全オフライン開催、ということでアフターパーティ等で人との繋がりも強く感じられとても濃い2日間となった（トレーニングデイ含めると3日間
 
-## 「Introduction to safe programming with numeric library」 登壇振り返り
+## 「数値ライブラリで始める安全なプログラミング」 登壇振り返り
 発表資料は以下
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/a5a88a998b7643eba1bd728a75d1042a" title="Introduction to safe programming with numeric library / 数値ライブラリで始める安全なプログラミング" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 419;" data-ratio="1.3365155131264916"></iframe>
@@ -28,16 +28,18 @@ Xのハッシュタグは `#ScalaMatsuri`
 また初のカンファレンス登壇だったが、ScalaMatsuriの運営はとてもかっちりとしていて万全のサポートをしていただいた。
 そのおかげで安心して登壇に臨むことができスタッフの方々にとても感謝。
 
-## 個人的にキャッチアップしたいセッション
+## 個人的に理解が進んだセッション
 [プログラム一覧](https://scalamatsuri.org/ja/programs)
 
 全体として興味深いセッションが並んでいて、かつまとまり・バランスがよいプログラムであったように感じた
 
-個人的に興味を持った技術的な話題を抽出すると以下
+興味を持った技術的な話題を抽出すると以下
 - [com.lihaoyi](https://github.com/com-lihaoyi)エコシステム
 - [scala-cli](https://scala-cli.virtuslab.org/)ツール
 - [Ox](https://github.com/softwaremill/ox)
 
 どれも取りかかりやすいイメージを持ち、Scala3 + 上記のライブラリ・ツール群であればちょっとした開発をするときにハードル低くScalaを使えるなと思った。
 
-その他、個人的に内容が親和性が高く
+その他、個人的に親和性が高く理解が進んだセッションについて
+
+### [Scala ビルド時間の最適化](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_01)
