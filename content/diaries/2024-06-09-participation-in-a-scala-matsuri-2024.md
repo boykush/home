@@ -13,7 +13,7 @@ Xのハッシュタグは `#ScalaMatsuri`
 
 コロナ前ぶりの完全オフライン開催、ということでアフターパーティ等で人との繋がりも強く感じられとても濃い2日間となった（トレーニングデイ含めると3日間
 
-## 「数値ライブラリで始める安全なプログラミング」 登壇振り返り
+# 「数値ライブラリで始める安全なプログラミング」 登壇振り返り
 発表資料は以下
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/a5a88a998b7643eba1bd728a75d1042a" title="Introduction to safe programming with numeric library / 数値ライブラリで始める安全なプログラミング" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 419;" data-ratio="1.3365155131264916"></iframe>
@@ -28,7 +28,7 @@ Xのハッシュタグは `#ScalaMatsuri`
 また初のカンファレンス登壇だったが、ScalaMatsuriの運営はとてもかっちりとしていて万全のサポートをしていただいた。
 そのおかげで安心して登壇に臨むことができスタッフの方々にとても感謝。
 
-## 個人的に理解が進んだセッション
+# 個人的に理解が進んだセッション
 [プログラム一覧](https://scalamatsuri.org/ja/programs)
 
 全体として興味深いセッションが並んでいて、かつまとまり・バランスがよいプログラムであったように感じた
@@ -42,14 +42,14 @@ Xのハッシュタグは `#ScalaMatsuri`
 
 その他、個人的に親和性が高く理解が進んだセッションについて
 
-### [Scala ビルド時間の最適化](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_01)
+## [Scala ビルド時間の最適化](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_01)
 sbtのようなビルドツールの中で、sbt,Zinc,scalacのレイヤがどのような役割を持ちビルドがされているか、そしてどう拘束かに取り組んでいるか、わかりやすく紹介がされていた。
 
 こうゆうふうにサブプロジェクトやファイルを分けるとビルド早くなるよ〜といったように、ビルド高速化の勘所が分かりよかった。
 
 直近のビルド高速化リリースタイムラインも紹介され、ミッションをやりきってリリースまで持っていく執念のようなものを感じた。とてもすごいと思ったし自分もそうありたい。
 
-### [作って学ぶ Extensible Effects](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_04)
+## [作って学ぶ Extensible Effects](https://scalamatsuri.org/ja/programs/SESSION_DAY_2_04)
 発表資料は以下
 
 [Google Doc](https://docs.google.com/presentation/d/1raybiE8Otk2nreKDyRHoF1HK50K9K-fjL8-37QK8kW4/edit?usp=sharing)
@@ -62,7 +62,7 @@ atnos-effライブラリで似たような内部実装を見かけた気がす�
 
 Effは個人的にとても大好きなので、今後ともしっかり付き合っていきたい。
 
-## まとめ
+# まとめ
 個人的な話になるが、新卒で社会人になったのと同時にコロナに突入した代なのでオフラインカンファレンスはなにもかもがわくわくして参加できた。
 
 発表者の顔を直接見ながら発表を聞くのは、オンラインイベントでは感じられない熱・執念のようなものを強く感じ、一気にコロナ前の社会に戻った感覚があった。
