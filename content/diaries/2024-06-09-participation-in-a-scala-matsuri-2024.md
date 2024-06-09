@@ -28,4 +28,16 @@ Xのハッシュタグは `#ScalaMatsuri`
 また初のカンファレンス登壇だったが、ScalaMatsuriの運営はとてもかっちりとしていて万全のサポートをしていただいた。
 そのおかげで安心して登壇に臨むことができスタッフの方々にとても感謝。
 
-## 
+## 個人的にキャッチアップしたいセッション
+[プログラム一覧](https://scalamatsuri.org/ja/programs)
+
+全体として興味深いセッションが並んでいて、かつまとまり・バランスがよいプログラムであったように感じた
+
+個人的に興味を持った技術的な話題を抽出すると以下
+- [com.lihaoyi](https://github.com/com-lihaoyi)エコシステム
+- [scala-cli](https://scala-cli.virtuslab.org/)ツール
+- [Ox](https://github.com/softwaremill/ox)
+
+どれも取りかかりやすいイメージを持ち、Scala3 + 上記のライブラリ・ツール群であればちょっとした開発をするときにハードル低くScalaを使えるなと思った。
+
+その他、個人的に内容が親和性が高く
