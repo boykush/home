@@ -3,11 +3,17 @@ title = "「ScalaMatsuri 2024」に参加・登壇してきた"
 date = 2024-06-09
 [taxonomies]
 tags=["Tech", "Output"]
+
+[extra]
+meta = [
+  {property = "og:title", content = "the og title"},
+  {property = "og:description", content = "the og description"},
+]
 +++
 
 [ScalaMatsuri 2024](https://scalamatsuri.org/ja)に参加・登壇してきた
 
-Xのハッシュタグは `#ScalaMatsuri`
+Xのハッシュタグは #ScalaMatsuri
 
 終始タイムラインも賑わっていてとても楽しかった。
 
