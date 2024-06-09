@@ -34,9 +34,9 @@ Xのハッシュタグは `#ScalaMatsuri`
 全体として興味深いセッションが並んでいて、かつまとまり・バランスがよいプログラムであったように感じた
 
 興味を持った技術的な話題を抽出すると以下
-- [com.lihaoyi](https://github.com/com-lihaoyi)エコシステム
+- [com.lihaoyi](https://github.com/com-lihaoyi)エコシステム群
 - [scala-cli](https://scala-cli.virtuslab.org/)ツール
-- [Ox](https://github.com/softwaremill/ox)
+- [Ox](https://github.com/softwaremill/ox)ライブラリ
 
 どれも取りかかりやすいイメージを持ち、Scala3 + 上記のライブラリ・ツール群であればちょっとした開発をするときにハードル低くScalaを使えるなと思った。
 
