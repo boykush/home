@@ -6,8 +6,7 @@ tags=["Tech", "Output"]
 
 [extra]
 meta = [
-  {property = "og:title", content = "the og title"},
-  {property = "og:description", content = "the og description"},
+  {property = "og:title", content = "「ScalaMatsuri 2024」に参加・登壇してきた"}
 ]
 +++
 
