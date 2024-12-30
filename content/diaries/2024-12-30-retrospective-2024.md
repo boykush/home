@@ -3,6 +3,12 @@ title = "2024年振り返り"
 date = 2024-12-30
 [taxonomies]
 tags=["Poem"]
+
+[extra]
+meta = [
+  {property = "og:title", content = "2024年振り返り - Kush's Home"},
+  {property = "twitter:title", content = "2024年振り返り - Kush's Home"}
+]
 +++
 
 今年はとても怒涛の1年だった、社会人5年目だが社会人になって一番頑張っていたと思う。それもあって記憶が薄いので振り返ってみようと思う
