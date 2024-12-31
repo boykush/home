@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Tech</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/tech/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-09T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/tech/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>「ScalaMatsuri 2024」に参加・登壇してきた</title>
+        <published>2024-06-09T00:00:00+00:00</published>
+        <updated>2024-06-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/participation-in-a-scala-matsuri-2024/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/participation-in-a-scala-matsuri-2024/</id>
+        
+        <content type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&quot;&gt;ScalaMatsuri 2024&lt;&#x2F;a&gt;に参加・登壇してきた&lt;&#x2F;p&gt;
+&lt;p&gt;Xのハッシュタグは #ScalaMatsuri&lt;&#x2F;p&gt;
+&lt;p&gt;終始タイムラインも賑わっていてとても楽しかった。&lt;&#x2F;p&gt;
+&lt;p&gt;コロナ前ぶりの完全オフライン開催、ということでアフターパーティ等で人との繋がりも強く感じられとても濃い2日間となった（トレーニングデイ含めると3日間&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;shu-zhi-raiburarideshi-meruan-quan-napuroguramingu-deng-tan-zhen-rifan-ri&quot;&gt;「数値ライブラリで始める安全なプログラミング」 登壇振り返り&lt;&#x2F;h1&gt;
+&lt;p&gt;発表資料は以下&lt;&#x2F;p&gt;
+&lt;iframe class=&quot;speakerdeck-iframe&quot; frameborder=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;speakerdeck.com&#x2F;player&#x2F;a5a88a998b7643eba1bd728a75d1042a&quot; title=&quot;Introduction to safe programming with numeric library &#x2F; 数値ライブラリで始める安全なプログラミング&quot; allowfullscreen=&quot;true&quot; style=&quot;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 &#x2F; 419;&quot; data-ratio=&quot;1.3365155131264916&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;概要として、&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;typelevel&#x2F;spire&quot;&gt;typelevel&#x2F;spire&lt;&#x2F;a&gt;という数値ライブラリの中から主に有理数（Rational）型を使って、数値誤差のない安全な料金計算を行う。という内容&lt;&#x2F;p&gt;
+&lt;p&gt;普遍的な数値誤差の話題についてだったので、普段関わらない界隈の人からもリアクションをもらえて嬉しかった。
+たまたま業務で触っていた内容の紹介で正直題材に恵まれたが、しっかり勉強して20分発表しきれたのでやりきった。&lt;&#x2F;p&gt;
+&lt;p&gt;発表内容は事前に社のチームの人に共有し、内容・英語に関してFBをもらうことができた。とてもありがたい。&lt;&#x2F;p&gt;
+&lt;p&gt;また初のカンファレンス登壇だったが、ScalaMatsuriの運営はとてもかっちりとしていて万全のサポートをしていただいた。
+そのおかげで安心して登壇に臨むことができスタッフの方々にとても感謝。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ge-ren-de-nili-jie-gajin-ndasetusiyon&quot;&gt;個人的に理解が進んだセッション&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&#x2F;programs&quot;&gt;プログラム一覧&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;全体として興味深いセッションが並んでいて、かつまとまり・バランスがよいプログラムであったように感じた&lt;&#x2F;p&gt;
+&lt;p&gt;興味を持った技術的な話題を抽出すると以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;com-lihaoyi&quot;&gt;com.lihaoyi&lt;&#x2F;a&gt;エコシステム群&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scala-cli.virtuslab.org&#x2F;&quot;&gt;scala-cli&lt;&#x2F;a&gt;ツール&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;softwaremill&#x2F;ox&quot;&gt;Ox&lt;&#x2F;a&gt;ライブラリ&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;どれも取りかかりやすいイメージを持ち、Scala3 + 上記のライブラリ・ツール群であればちょっとした開発をするときにハードル低くScalaを使えるなと思った。&lt;&#x2F;p&gt;
+&lt;p&gt;その他、個人的に親和性が高く理解が進んだセッションについて&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scala-birudoshi-jian-nozui-shi-hua&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&#x2F;programs&#x2F;SESSION_DAY_2_01&quot;&gt;Scala ビルド時間の最適化&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;sbtのようなビルドツールの中で、sbt,Zinc,scalacのレイヤがどのような役割を持ちビルドがされているか、そしてどう高速化に取り組んでいるか、わかりやすく紹介がされていた。&lt;&#x2F;p&gt;
+&lt;p&gt;こうゆうふうにサブプロジェクトやファイルを分けるとビルド早くなるよ〜といったように、ビルド高速化の勘所が分かりよかった。すぐにでもできそうな改善もあったので役立てていきたい。&lt;&#x2F;p&gt;
+&lt;p&gt;直近のビルド高速化リリースタイムラインも紹介され、長い期間のミッションをやりきってリリースまで持っていく執念のようなものを感じた。とてもすごいと思ったし自分もそうありたい。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;zuo-tutexue-bu-extensible-effects&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&#x2F;programs&#x2F;SESSION_DAY_2_04&quot;&gt;作って学ぶ Extensible Effects&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;発表資料は以下&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1raybiE8Otk2nreKDyRHoF1HK50K9K-fjL8-37QK8kW4&#x2F;edit?usp=sharing&quot;&gt;Google Doc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;こちらは個人的に業務でatnos-effライブラリを使っていることもあり、ライブラリを内部を理解できるよう意気込んでいたセッション&lt;&#x2F;p&gt;
+&lt;p&gt;そういった背景で発表全体をやんわりとは理解できたが、サンプルコードの一行一行までは理解がおよんでいないので後でゆっくり見返したい。&lt;&#x2F;p&gt;
+&lt;p&gt;atnos-effライブラリで似たような内部実装を見かけた気がする（特にトランスパイルのあたり）ので、ライブラリとも比較しながら読み込むのが良さそう。&lt;&#x2F;p&gt;
+&lt;p&gt;Effは個人的にとても大好きなので、今後ともしっかり付き合っていきたい。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;個人的な話になるが、新卒で社会人になったのと同時にコロナに突入した代なので初のオフラインカンファレンスはなにもかもがわくわくして参加できた。&lt;&#x2F;p&gt;
+&lt;p&gt;発表者の顔を直接見ながら発表を聞くのは、オンラインイベントでは感じられない熱・執念のようなものを強く感じ、一気にコロナ前の社会に戻った感覚があった。&lt;&#x2F;p&gt;
+&lt;p&gt;ScalaMatsuriは国際カンファレンスなので、登壇者含め多くの外国の方が参加していた。スピーカーディナーや懇親会での英語での会話はとても刺激になった。（僕はまともに話せてないけど&lt;&#x2F;p&gt;
+&lt;p&gt;まずはこのブログに書いたキャッチアップ、そして1年後までにまともな英会話力！&lt;&#x2F;p&gt;
+&lt;p&gt;改めて、運営スタッフの方々、登壇者の方々、一緒に場を共有できた参加者の方々、ありがとうございました。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>ScrapsというWiki用のSSGを作っている話</title>
+        <published>2023-07-10T00:00:00+00:00</published>
+        <updated>2023-07-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/creating-scraps/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/creating-scraps/</id>
+        
+        <content type="html">&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;Obsidianを使ってWikiをまとめていたがせっかくならページ公開したいな〜と考えていた。どうやらObsidianでページ公開するには有料プランである必要があるらしい。&lt;&#x2F;p&gt;
+&lt;p&gt;有料プランにするほどのモチベはなかったが、Rust入門中だったのでせっかくならStatic Site Generatorを作っちゃえ。となった。&lt;&#x2F;p&gt;
+&lt;p&gt;GitHub Repositoryは以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;shi-zhuang&quot;&gt;実装&lt;&#x2F;h1&gt;
+&lt;p&gt;基本機能はSSGとしてMarkdownをHtmlへと変換する機能。Wiki用ということで加えてページ内リンクを簡単に記述できるようになっている。&lt;&#x2F;p&gt;
+&lt;p&gt;実装で用いたメインのライブラリ群は以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;anyhow(thiserror)&lt;&#x2F;li&gt;
+&lt;li&gt;clap&lt;&#x2F;li&gt;
+&lt;li&gt;pulldown-cmark&lt;&#x2F;li&gt;
+&lt;li&gt;serde&lt;&#x2F;li&gt;
+&lt;li&gt;tera&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;特にTeraのドキュメントは読み込んだ。同じくTeraを用いているZolaと似たような使い心地になるよう意識した。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ci-cd&quot;&gt;CI&#x2F;CD&lt;&#x2F;h1&gt;
+&lt;p&gt;ScrapsのリリースはGitHub Releasesとcrates-ioを用いて管理している。よって cargo install scraps でインストールをできるようにした&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;scraps&quot;&gt;crates.io&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;ssgnodepuroisapoto&quot;&gt;SSGのデプロイサポート&lt;&#x2F;h1&gt;
+&lt;p&gt;GitHub Pagesでのデプロイをサポートすべく、GitHub Actionsのカスタムアクションを用意した。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps-deploy-action&quot;&gt;scraps-deploy-action&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;またカスタムアクションから呼び出すDocker ImageはGitHubリポジトリのPackagesで管理した&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps-image&quot;&gt;scraps-image&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;dokiyumento&quot;&gt;ドキュメント&lt;&#x2F;h1&gt;
+&lt;p&gt;ScrapsのドキュメントはScraps自身を用いて作成している。同リポジトリに置いているので機能開発中のデバッグ用もかねている&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;scraps&#x2F;Getting%20Started.html&quot;&gt;Getting Started - Scraps Doc&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;zhong-warini&quot;&gt;終わりに&lt;&#x2F;h1&gt;
+&lt;p&gt;v0.6.1時点で一通りの機能が揃ったので、実際にScrapsを用いてWikiを作り始めている&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;wiki&#x2F;&quot;&gt;Kush&#x27;s Wiki&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;我ながら良い使い心地なのでWikiも充実させていきつつ、Scrapsの開発も続けていきたい&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>dotfilesをupdateした</title>
+        <published>2023-05-23T00:00:00+00:00</published>
+        <updated>2023-05-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/update-dotfiles/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/update-dotfiles/</id>
+        
+        <content type="html">&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;最近dotfilesを整理して開発環境をアップデートしていた。備忘録的にリンク等を残す。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;cuituiturunozheng-li&quot;&gt;CUI・TUIツールの整理&lt;&#x2F;h1&gt;
+&lt;p&gt;これまで色々なツールを入れてきたが結局使わずにいたツールも多かった。ので頻繁に使っているコマンドだけになるよう整理した。&lt;&#x2F;p&gt;
+&lt;p&gt;愛用しているのは以下のツール群&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sharkdp&#x2F;bat&quot;&gt;bat&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ogham&#x2F;exa&quot;&gt;exa&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;junegunn&#x2F;fzf&quot;&gt;fzf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;extrawurst&#x2F;gitui&quot;&gt;gitui&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dandavison&#x2F;delta&quot;&gt;git-delta&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BurntSushi&#x2F;ripgrep&quot;&gt;ripgrep&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;starship&#x2F;starship&quot;&gt;starship&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ajeetdsouza&#x2F;zoxide&quot;&gt;zoxide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;有名どころが多いので説明は省略する。fzfの代替とな&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lotabout&#x2F;skim&quot;&gt;skim&lt;&#x2F;a&gt;はどうなんだろう。また調べてみたい。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;taminarumarutipurekusawozellijheyi-xing&quot;&gt;ターミナルマルチプレクサをZellijへ移行&lt;&#x2F;h1&gt;
+&lt;p&gt;ターミナルはAlacrittyを使っているが、tmuxから&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zellij-org&#x2F;zellij&quot;&gt;Zellij&lt;&#x2F;a&gt;へターミナルマルチプレクサの環境を大きく変えた。&lt;&#x2F;p&gt;
+&lt;p&gt;気分転換がてらといった感じで大きな意思はないけれど、前評判通りユーザーフレンドリーなUIのおかげで不自由なく使っている。&lt;&#x2F;p&gt;
+&lt;p&gt;tmuxに比べてショートカットのタイプ数は増えたが、シンプルよりイージーを優先したインターフェースという印象で個人的には好き。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;neovimnoluahua&quot;&gt;Neovimのlua化&lt;&#x2F;h1&gt;
+&lt;p&gt;長らくさぼって後回しにしていたがついにlua化を行なった。オプション設定は引き継ぎつつプラグインはlua製へと置き換えた。&lt;&#x2F;p&gt;
+&lt;p&gt;最近はIntellijに頼りきっているのもあって、補完系プラグインはまだ入れていないけれど。&lt;&#x2F;p&gt;
+&lt;p&gt;採用したプラグイン一覧は以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;wbthomason&#x2F;packer.nvim&quot;&gt;packer.nvim&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nvim-tree&#x2F;nvim-tree.lua&quot;&gt;nvim-tree&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nvim-telescope&#x2F;telescope.nvim&quot;&gt;telescope.nvim&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nvim-lualine&#x2F;lualine.nvim&quot;&gt;lualine.nvim&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;akinsho&#x2F;bufferline.nvim&quot;&gt;bufferline.nvim&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lewis6991&#x2F;gitsigns.nvim&quot;&gt;gitsigns.nvim&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;windwp&#x2F;nvim-autopairs&quot;&gt;nvim-autopairs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;luaファイルを役割別に分割しやすくなっていて良い、分け方はこんな感じ。&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2e3440;color:#d8dee9;&quot;&gt;&lt;code&gt;&lt;span&gt;❯ tree
+&lt;&#x2F;span&gt;&lt;span&gt;.
+&lt;&#x2F;span&gt;&lt;span&gt;├── init.lua
+&lt;&#x2F;span&gt;&lt;span&gt;└── lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── core-colorscheme.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── core-keymappings.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── core-options.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── core-plugin-manager.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── plugin-bufferline.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── plugin-gitsigns.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── plugin-lualine.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── plugin-nvim-autopairs.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    ├── plugin-nvim-tree.lua
+&lt;&#x2F;span&gt;&lt;span&gt;    └── plugin-telescope.lua
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h1 id=&quot;karasukimuwoyi-lu-nordnibian-geng&quot;&gt;カラースキームを一律Nordに変更&lt;&#x2F;h1&gt;
+&lt;p&gt;これまでMaterial DesingのColorを使っていたが、ターミナルからIDEまで一律で&lt;a href=&quot;https:&#x2F;&#x2F;www.nordtheme.com&#x2F;&quot;&gt;Nord&lt;&#x2F;a&gt;にスキームを変更した。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arcticicestudio&quot;&gt;Arctic Ice Studio&lt;&#x2F;a&gt;が出している他のリポジトリも気になる。&lt;&#x2F;p&gt;
+&lt;p&gt;フォントは変わらず&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;source-foundry&#x2F;Hack&quot;&gt;Hack&lt;&#x2F;a&gt;を使っている。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;owarini&quot;&gt;おわりに&lt;&#x2F;h1&gt;
+&lt;p&gt;他にもdotfilesではないけれども、本ホームページのZola Themesを&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bennetthardwick&#x2F;simple-dev-blog-zola-starter&quot;&gt;simple-dev-blog&lt;&#x2F;a&gt;から&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;not-matthias&#x2F;apollo&quot;&gt;apollo&lt;&#x2F;a&gt;に変えたりと、身の回りの整理をしていた。&lt;&#x2F;p&gt;
+&lt;p&gt;普段はエンジニアという職種で課題解決を軸に難しいことを考えながらサービスを提供する側だけれど、たまには何も考えずにツールの利用側になるのも大事だなと感じた。&lt;&#x2F;p&gt;
+&lt;p&gt;備忘録として残しておく。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「OAuth徹底入門 セキュアな認可システムを適用するための原則と実践」を読んだ</title>
+        <published>2023-04-21T00:00:00+00:00</published>
+        <updated>2023-04-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-oauth2-in-action/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-oauth2-in-action/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;m.media-amazon.com&amp;#x2F;images&amp;#x2F;I&amp;#x2F;51CaA7dryjL._SX218_BO1,204,203,200_QL40_ML2_.jpg &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;業務でOAuthクライアントの運用・保守はしているが、OAuthを基礎から学んだことがなかったので基礎を固めるために読んだ本。&lt;&#x2F;p&gt;
+&lt;p&gt;認可サーバー、クライアント、保護対象リソースサーバー実装のサンプルコードを交えながら丁寧に説明がされていたのでしっかり理解することができた。&lt;&#x2F;p&gt;
+&lt;p&gt;運用経験があったおかげでスムーズに読み進めたが「13章 OAuth2.0を使ったユーザー認証」の内容は自身の解釈として学びが多かったので考えたことをまとめる。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;oauth2-0haren-zheng-toren-ke-nojian-deyi-cun-xing-ni-zhuan-woxing-uyouren-ke-wochou-xiang-hua-sitashe-ji&quot;&gt;OAuth2.0は認証と認可の間で依存性逆転を行うよう認可を抽象化した設計？&lt;&#x2F;h1&gt;
+&lt;p&gt;上記の問いは理論、運用ともに豊富な人からみると当たり前の解釈かもしれないが、認可が認証に依存をさせない設計を徹底しているのが印象的だった。&lt;&#x2F;p&gt;
+&lt;p&gt;DBリポジトリの抽象に対して実装をDIするように、認可フレームワークとして抽象化されたOAuthでは認証含む実装方法に様々な選択肢を用意している。&lt;&#x2F;p&gt;
+&lt;p&gt;OAuth2.0に限らずアプリケーション設計において認証と認可はコンテキストをはっきりと分けるべき、みたいな話は過去の学び・議論から直感的に理解していたが、OAuth2.0の哲学のようなものに触れることでより良いインターフェースの一例を知ることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;Jsonフィールドレベルのインターフェースだけでなく、リソースに対する認可という形も含めてインターフェースを小さくすることで、よりコンテキスト、依存関係を明確にしたやり取りができる。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;最近はソフトウェア設計に関する学びも飽和してきて「とにかく良いインターフェースに触れること」といったざっくり方針を立てていたが、本書のおかげで方針を実行に移すことができた。&lt;&#x2F;p&gt;
+&lt;p&gt;まあまだ一冊本読んだレベルの知識なので引き続き深掘りしていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「Programming in Haskell 2nd edition」を読んだ</title>
+        <published>2023-04-04T00:00:00+00:00</published>
+        <updated>2023-04-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-programming-haskell/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-programming-haskell/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;cdn.shopify.com&amp;#x2F;s&amp;#x2F;files&amp;#x2F;1&amp;#x2F;1634&amp;#x2F;7169&amp;#x2F;products&amp;#x2F;cover_530x.png?v=1564720482 &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;1年か2年ほど前に途中まで読んで以来、長いこと積読していたHaskell本を読了したので学びを書く。&lt;&#x2F;p&gt;
+&lt;p&gt;特に15章以降が学びが多かったので14章以前は省略する。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lambdanote.com&#x2F;collections&#x2F;haskell&quot;&gt;翻訳版書籍リンク&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;15zhang-chi-yan-ping-jia&quot;&gt;15章 遅延評価&lt;&#x2F;h1&gt;
+&lt;p&gt;Scala構文の &lt;code&gt;lazy val&lt;&#x2F;code&gt;や &lt;code&gt;monix.eval.Task&lt;&#x2F;code&gt;の利用等でどのような挙動とメリットがあるかざっくりは理解していたが、本章では評価戦略の種類から丁寧に比較と説明がされていて理解を深めることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;評価戦略は&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;最内簡約 → 値渡し&lt;&#x2F;li&gt;
+&lt;li&gt;最外簡約 → 名前渡し&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;といった対応になる。&lt;&#x2F;p&gt;
+&lt;p&gt;本章では遅延評価（名前渡し）によって無限リストを生み出す再帰関数の評価を停止させるサンプルコードが紹介されている。&lt;&#x2F;p&gt;
+&lt;p&gt;ここでの学びは「データと制御の分離」という表現を得たこと。&lt;&#x2F;p&gt;
+&lt;p&gt;この表現によって後続の章の内容も理解が進みやすい構成になっていた。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;16zhang-puroguramunolun-zheng&quot;&gt;16章 プログラムの論証&lt;&#x2F;h1&gt;
+&lt;p&gt;本章では等式推論・数学的帰納法・構造的帰納法の紹介の後、最後にコンパイルの正しさを論証している。&lt;&#x2F;p&gt;
+&lt;p&gt;コンパイルの正しさを論証する前に再帰データ型の基底部と再帰部それぞれを分けて証明する例題が紹介されていた。&lt;&#x2F;p&gt;
+&lt;p&gt;コンパイルの正しさの論証に関して、自身は証明の式の適用を順に追っていくのがやっとだったが、数式（ソース言語）・コード・スタックの関係性を把握することができた。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;17zhang-konpairanosuan-chu&quot;&gt;17章 コンパイラーの算出&lt;&#x2F;h1&gt;
+&lt;p&gt;本章では「ソース言語」を「低レベルコード」と「実行する仮想マシン」の2つに変換する流れが解説されている。ここが正に15章の「データと制御の分離」という表現が適用できる箇所だった。&lt;&#x2F;p&gt;
+&lt;p&gt;16章の論証での数式に続いて&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;スタックの型化&lt;&#x2F;li&gt;
+&lt;li&gt;スタックのやり取りを継続渡しへと変換&lt;&#x2F;li&gt;
+&lt;li&gt;コンビネーターとコード型の定義による継続の脱高階関数&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;といった手順で算出が行われていく。&lt;&#x2F;p&gt;
+&lt;p&gt;これまで簡単なインタプリタの実装コード等は読んだことがあったが、より理論的に？コンパイラについて理解を深めることができた&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;guan-shu-xing-puroguraminguhadi-reiyanodezainpatanwochou-xiang-hua-siteiru&quot;&gt;関数型プログラミングは低レイヤのデザインパターンを抽象化している？&lt;&#x2F;h1&gt;
+&lt;p&gt;17章まで読んで頭に浮かんだのが上記の問い。本書で解説されたような低レイヤに限らないとは思うが「データと制御の分離」を行うデザインパターンという新たな理解を得た。&lt;&#x2F;p&gt;
+&lt;p&gt;普段触っているExtensible Effectを用いたatnos-effライブラリでも式として呼び出すコマンドの定義とインタプリタ実行が分離されている。技術的な関心事を独自エフェクトとして抽象化することで比較的簡単な記述で隠蔽された複雑な実装を利用することができる。&lt;&#x2F;p&gt;
+&lt;p&gt;趣味として独自エフェクトを作成する作業はとても楽しかったが、新しいプログラミング言語を作る感覚に近かったのかもしれない。&lt;&#x2F;p&gt;
+&lt;p&gt;思わぬアハ体験をしたのでついブログにまとめた。低レイヤの知識含めまだまだなので精進していきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

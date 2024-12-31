@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Output</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/output/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-09T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/output/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>「ScalaMatsuri 2024」に参加・登壇してきた</title>
+        <published>2024-06-09T00:00:00+00:00</published>
+        <updated>2024-06-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/participation-in-a-scala-matsuri-2024/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/participation-in-a-scala-matsuri-2024/</id>
+        
+        <content type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&quot;&gt;ScalaMatsuri 2024&lt;&#x2F;a&gt;に参加・登壇してきた&lt;&#x2F;p&gt;
+&lt;p&gt;Xのハッシュタグは #ScalaMatsuri&lt;&#x2F;p&gt;
+&lt;p&gt;終始タイムラインも賑わっていてとても楽しかった。&lt;&#x2F;p&gt;
+&lt;p&gt;コロナ前ぶりの完全オフライン開催、ということでアフターパーティ等で人との繋がりも強く感じられとても濃い2日間となった（トレーニングデイ含めると3日間&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;shu-zhi-raiburarideshi-meruan-quan-napuroguramingu-deng-tan-zhen-rifan-ri&quot;&gt;「数値ライブラリで始める安全なプログラミング」 登壇振り返り&lt;&#x2F;h1&gt;
+&lt;p&gt;発表資料は以下&lt;&#x2F;p&gt;
+&lt;iframe class=&quot;speakerdeck-iframe&quot; frameborder=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;speakerdeck.com&#x2F;player&#x2F;a5a88a998b7643eba1bd728a75d1042a&quot; title=&quot;Introduction to safe programming with numeric library &#x2F; 数値ライブラリで始める安全なプログラミング&quot; allowfullscreen=&quot;true&quot; style=&quot;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 &#x2F; 419;&quot; data-ratio=&quot;1.3365155131264916&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;概要として、&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;typelevel&#x2F;spire&quot;&gt;typelevel&#x2F;spire&lt;&#x2F;a&gt;という数値ライブラリの中から主に有理数（Rational）型を使って、数値誤差のない安全な料金計算を行う。という内容&lt;&#x2F;p&gt;
+&lt;p&gt;普遍的な数値誤差の話題についてだったので、普段関わらない界隈の人からもリアクションをもらえて嬉しかった。
+たまたま業務で触っていた内容の紹介で正直題材に恵まれたが、しっかり勉強して20分発表しきれたのでやりきった。&lt;&#x2F;p&gt;
+&lt;p&gt;発表内容は事前に社のチームの人に共有し、内容・英語に関してFBをもらうことができた。とてもありがたい。&lt;&#x2F;p&gt;
+&lt;p&gt;また初のカンファレンス登壇だったが、ScalaMatsuriの運営はとてもかっちりとしていて万全のサポートをしていただいた。
+そのおかげで安心して登壇に臨むことができスタッフの方々にとても感謝。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ge-ren-de-nili-jie-gajin-ndasetusiyon&quot;&gt;個人的に理解が進んだセッション&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&#x2F;programs&quot;&gt;プログラム一覧&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;全体として興味深いセッションが並んでいて、かつまとまり・バランスがよいプログラムであったように感じた&lt;&#x2F;p&gt;
+&lt;p&gt;興味を持った技術的な話題を抽出すると以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;com-lihaoyi&quot;&gt;com.lihaoyi&lt;&#x2F;a&gt;エコシステム群&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scala-cli.virtuslab.org&#x2F;&quot;&gt;scala-cli&lt;&#x2F;a&gt;ツール&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;softwaremill&#x2F;ox&quot;&gt;Ox&lt;&#x2F;a&gt;ライブラリ&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;どれも取りかかりやすいイメージを持ち、Scala3 + 上記のライブラリ・ツール群であればちょっとした開発をするときにハードル低くScalaを使えるなと思った。&lt;&#x2F;p&gt;
+&lt;p&gt;その他、個人的に親和性が高く理解が進んだセッションについて&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scala-birudoshi-jian-nozui-shi-hua&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&#x2F;programs&#x2F;SESSION_DAY_2_01&quot;&gt;Scala ビルド時間の最適化&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;sbtのようなビルドツールの中で、sbt,Zinc,scalacのレイヤがどのような役割を持ちビルドがされているか、そしてどう高速化に取り組んでいるか、わかりやすく紹介がされていた。&lt;&#x2F;p&gt;
+&lt;p&gt;こうゆうふうにサブプロジェクトやファイルを分けるとビルド早くなるよ〜といったように、ビルド高速化の勘所が分かりよかった。すぐにでもできそうな改善もあったので役立てていきたい。&lt;&#x2F;p&gt;
+&lt;p&gt;直近のビルド高速化リリースタイムラインも紹介され、長い期間のミッションをやりきってリリースまで持っていく執念のようなものを感じた。とてもすごいと思ったし自分もそうありたい。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;zuo-tutexue-bu-extensible-effects&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;scalamatsuri.org&#x2F;ja&#x2F;programs&#x2F;SESSION_DAY_2_04&quot;&gt;作って学ぶ Extensible Effects&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;発表資料は以下&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1raybiE8Otk2nreKDyRHoF1HK50K9K-fjL8-37QK8kW4&#x2F;edit?usp=sharing&quot;&gt;Google Doc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;こちらは個人的に業務でatnos-effライブラリを使っていることもあり、ライブラリを内部を理解できるよう意気込んでいたセッション&lt;&#x2F;p&gt;
+&lt;p&gt;そういった背景で発表全体をやんわりとは理解できたが、サンプルコードの一行一行までは理解がおよんでいないので後でゆっくり見返したい。&lt;&#x2F;p&gt;
+&lt;p&gt;atnos-effライブラリで似たような内部実装を見かけた気がする（特にトランスパイルのあたり）ので、ライブラリとも比較しながら読み込むのが良さそう。&lt;&#x2F;p&gt;
+&lt;p&gt;Effは個人的にとても大好きなので、今後ともしっかり付き合っていきたい。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;個人的な話になるが、新卒で社会人になったのと同時にコロナに突入した代なので初のオフラインカンファレンスはなにもかもがわくわくして参加できた。&lt;&#x2F;p&gt;
+&lt;p&gt;発表者の顔を直接見ながら発表を聞くのは、オンラインイベントでは感じられない熱・執念のようなものを強く感じ、一気にコロナ前の社会に戻った感覚があった。&lt;&#x2F;p&gt;
+&lt;p&gt;ScalaMatsuriは国際カンファレンスなので、登壇者含め多くの外国の方が参加していた。スピーカーディナーや懇親会での英語での会話はとても刺激になった。（僕はまともに話せてないけど&lt;&#x2F;p&gt;
+&lt;p&gt;まずはこのブログに書いたキャッチアップ、そして1年後までにまともな英会話力！&lt;&#x2F;p&gt;
+&lt;p&gt;改めて、運営スタッフの方々、登壇者の方々、一緒に場を共有できた参加者の方々、ありがとうございました。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「第一回ソフトウェアテストについて考える会」というイベントでLTをした</title>
+        <published>2024-03-24T00:00:00+00:00</published>
+        <updated>2024-03-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/lightning-talk-in-nextbeat-techbar/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/lightning-talk-in-nextbeat-techbar/</id>
+        
+        <content type="html">&lt;p&gt;3&#x2F;22（金）に&lt;a href=&quot;https:&#x2F;&#x2F;nextbeat.connpass.com&#x2F;event&#x2F;309287&#x2F;&quot;&gt;Nextbeat Tech Bar：第一回ソフトウェアテストについて考える会&lt;&#x2F;a&gt;というイベントでLTをしてきた&lt;&#x2F;p&gt;
+&lt;p&gt;資料はSpeakerDeckで公開している&lt;&#x2F;p&gt;
+&lt;iframe class=&quot;speakerdeck-iframe&quot; frameborder=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;speakerdeck.com&#x2F;player&#x2F;c6dbcb6d17e0482cb20ec0ce570fb2cf&quot; title=&quot;複雑なドメインを扱うプロダクトの探索フェーズではいつどのようにテストをするのか &#x2F; How to testing during exploratory phase&quot; allowfullscreen=&quot;true&quot; style=&quot;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 &#x2F; 315;&quot; data-ratio=&quot;1.7777777777777777&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;今回からスライド作成をmarpから&lt;a href=&quot;https:&#x2F;&#x2F;ja.sli.dev&#x2F;&quot;&gt;slidev&lt;&#x2F;a&gt;に移行してみた。&lt;&#x2F;p&gt;
+&lt;p&gt;自作Themeがちゃんとできてきたら公開しよう&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Swarmingに関するブログを書いた</title>
+        <published>2023-11-08T00:00:00+00:00</published>
+        <updated>2023-11-08T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/write-blog-about-swarming/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/write-blog-about-swarming/</id>
+        
+        <content type="html">&lt;p&gt;MediumにAgileやScrum文脈で語られるSwarmingについてのブログを投稿した&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@boykush&#x2F;best-practices-for-swarming-agile-team-9e2aef20f74e&quot;&gt;“群れる” アジャイルチームのベストプラクティス  | by boykush  | Medium&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Agile周辺は知識と実践の両方が身についてきたのでキャリアとして強みにしていくのもありか？と思いつつ、会社に所属しているときは必要とされる役割を担うだけなのでそこまでこだわりを持てていない。&lt;&#x2F;p&gt;
+&lt;p&gt;今回のブログではSwarmingの良い部分を紹介したけれど、実際にチームでSwarmingを重視する動きをしているとうまくいかないことも多い、ので次関連して外部発信するときはうまくいかない部分も紹介したい。&lt;&#x2F;p&gt;
+&lt;p&gt;あともう一つ悩みがどのプラットフォームでブログを投稿するか。このホームページはハードル低く日記として投稿をしたいので、がっつり文章を書いたブログはMediumに投稿する形で役割を分けてみた。&lt;&#x2F;p&gt;
+&lt;p&gt;まあ目先はどのプラットフォームかは関係なくアウトプット増やすのを重要視したい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>ScrapsというWiki用のSSGを作っている話</title>
+        <published>2023-07-10T00:00:00+00:00</published>
+        <updated>2023-07-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/creating-scraps/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/creating-scraps/</id>
+        
+        <content type="html">&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;Obsidianを使ってWikiをまとめていたがせっかくならページ公開したいな〜と考えていた。どうやらObsidianでページ公開するには有料プランである必要があるらしい。&lt;&#x2F;p&gt;
+&lt;p&gt;有料プランにするほどのモチベはなかったが、Rust入門中だったのでせっかくならStatic Site Generatorを作っちゃえ。となった。&lt;&#x2F;p&gt;
+&lt;p&gt;GitHub Repositoryは以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;shi-zhuang&quot;&gt;実装&lt;&#x2F;h1&gt;
+&lt;p&gt;基本機能はSSGとしてMarkdownをHtmlへと変換する機能。Wiki用ということで加えてページ内リンクを簡単に記述できるようになっている。&lt;&#x2F;p&gt;
+&lt;p&gt;実装で用いたメインのライブラリ群は以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;anyhow(thiserror)&lt;&#x2F;li&gt;
+&lt;li&gt;clap&lt;&#x2F;li&gt;
+&lt;li&gt;pulldown-cmark&lt;&#x2F;li&gt;
+&lt;li&gt;serde&lt;&#x2F;li&gt;
+&lt;li&gt;tera&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;特にTeraのドキュメントは読み込んだ。同じくTeraを用いているZolaと似たような使い心地になるよう意識した。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ci-cd&quot;&gt;CI&#x2F;CD&lt;&#x2F;h1&gt;
+&lt;p&gt;ScrapsのリリースはGitHub Releasesとcrates-ioを用いて管理している。よって cargo install scraps でインストールをできるようにした&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;scraps&quot;&gt;crates.io&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;ssgnodepuroisapoto&quot;&gt;SSGのデプロイサポート&lt;&#x2F;h1&gt;
+&lt;p&gt;GitHub Pagesでのデプロイをサポートすべく、GitHub Actionsのカスタムアクションを用意した。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps-deploy-action&quot;&gt;scraps-deploy-action&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;またカスタムアクションから呼び出すDocker ImageはGitHubリポジトリのPackagesで管理した&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps-image&quot;&gt;scraps-image&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;dokiyumento&quot;&gt;ドキュメント&lt;&#x2F;h1&gt;
+&lt;p&gt;ScrapsのドキュメントはScraps自身を用いて作成している。同リポジトリに置いているので機能開発中のデバッグ用もかねている&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;scraps&#x2F;Getting%20Started.html&quot;&gt;Getting Started - Scraps Doc&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;zhong-warini&quot;&gt;終わりに&lt;&#x2F;h1&gt;
+&lt;p&gt;v0.6.1時点で一通りの機能が揃ったので、実際にScrapsを用いてWikiを作り始めている&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;wiki&#x2F;&quot;&gt;Kush&#x27;s Wiki&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;我ながら良い使い心地なのでWikiも充実させていきつつ、Scrapsの開発も続けていきたい&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

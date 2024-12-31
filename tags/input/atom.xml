@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Input</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/input/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-03T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/input/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>「関数型ドメインモデリング」関数からサービス、ワークフローまで一貫した設計思想を得ることができる良書</title>
+        <published>2024-08-03T00:00:00+00:00</published>
+        <updated>2024-08-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-domain-modeling-made-functional/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-domain-modeling-made-functional/</id>
+        
+        <content type="html">&lt;p&gt;「関数型ドメインモデリング ドメイン駆動設計とF#でソフトウェアの複雑さに立ち向かおう」の書籍を読んだ。&lt;&#x2F;p&gt;
+&lt;p&gt;大前提、本書はソフトウェア設計に関する入門書である。「関数型」や「ドメイン駆動設計」の用語に怖気付く必要はない。&lt;&#x2F;p&gt;
+&lt;p&gt;個人的な感想を殴り書きではあるがまとめる。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ge-ren-de-nigan-ziteitasohutoueashe-ji-niguan-suruxing-shi-zhi-henoke-ti&quot;&gt;個人的に感じていたソフトウェア設計に関する形式知への課題&lt;&#x2F;h1&gt;
+&lt;p&gt;前提として本書を読む前までに自身が感じていた課題、それは設計をする規模に関係なく本来一貫して重要であるはずの設計思想が、異なる文脈へと散在していることである。&lt;&#x2F;p&gt;
+&lt;p&gt;例えば、情報の隠蔽に関する話題は&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;ドメイン集約のメソッド公開範囲&lt;&#x2F;li&gt;
+&lt;li&gt;マイクロサービスのインターフェースを小さく保つ話&lt;&#x2F;li&gt;
+&lt;li&gt;ワークフロー間のドメインイベントの話題&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;のように規模（または実装手段）の違いによる異なる文脈へ散在しているように感じる（本書でドメイン境界に触れるのは境界付けられたコンテキストでの話題がほとんどだが）&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;guan-shu-toiuyi-guan-sitashe-ji-si-xiang&quot;&gt;「関数」という一貫した設計思想&lt;&#x2F;h1&gt;
+&lt;p&gt;本書ではまず第2章の「ドメインの理解」でドメインエキスパートと一緒に記述するドメイン文書化の独自フォーマットを紹介している。このフォーマットはある境界付けられたコンテキストにおけるワークフローを記述するもので、インプットとアウトプット・関係する副作用を明示にする。いわば関数の設計文書のようになっている。&lt;&#x2F;p&gt;
+&lt;p&gt;第3章の「関数型アーキテクチャ」の説明も同様、オニオンアーキテクチャを例にしあるサービスにおける処理の通り道を図に起こしながら、インプットとアウトプット・そしてドメインから分離すべき副作用について語られる。&lt;&#x2F;p&gt;
+&lt;p&gt;第8章「関数の理解」ではサービスから低レベル処理へと規模が移る。関数同士を一つのレールのように繋げる関数合成について語られる。関数型プログラミングを学ぶ上で登竜門となることが多い「モナド」という単語の利用は避け、関数同士を合成したくなるモチベーション（Linuxのパイプ処理が例に出ている）を図を用いながらごく一般的な流れで説明がされる。&lt;&#x2F;p&gt;
+&lt;p&gt;そして「8.4.2 関数からアプリケーション全体を構築する」が個人的に一番しっくりきた部分、関数合成を使った組み合わせによって低レベル処理→サービス→ワークフロー→アプリケーション、の順に同じ「関数」という設計思想で規模の違いを一つに取りまとめるような説明がされる。&lt;&#x2F;p&gt;
+&lt;p&gt;続く第9章「実装:パイプラインの合成」以降は実装時の詳細について。例として関数型プログラミングの「部分適用」による依存性注入の説明、関数で取り扱う副作用を関数の型シグネチャ内で明示に扱い、副作用を分離するパターンが書かれている。第3章でオニオンアーキテクチャの例で語られたように副作用の分離を一貫する設計思想として扱う。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;関数型プログラミングは業務でも使っていて個人的に推しているのだが、その理由を上手く説明できずに悩んでいた。そして導入として書いたソフトウェア設計に関する課題が関数型プログラミングのパターンによって解決できるかもしれないことを学んだ。&lt;&#x2F;p&gt;
+&lt;p&gt;アプリケーション全体をワークフローの関数合成で表すような設計思想はとても素敵だと思っていて、より自律的なプロダクト開発ができるようになる第一歩だと思う。&lt;&#x2F;p&gt;
+&lt;p&gt;ぜひ人におすすめしたい一冊になった。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「組織を変える5つの対話 --対話を通じてアジャイルな組織文化を創る」を読んだ</title>
+        <published>2024-06-02T00:00:00+00:00</published>
+        <updated>2024-06-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-agile-conversations/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-agile-conversations/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;www.oreilly.co.jp&amp;#x2F;books&amp;#x2F;images&amp;#x2F;picture_large978-4-8144-0064-5.jpeg &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;翻訳エントリは&lt;a href=&quot;https:&#x2F;&#x2F;digitalsoul.hatenadiary.org&#x2F;entry&#x2F;2024&#x2F;01&#x2F;22&#x2F;080833&quot;&gt;こちら&lt;&#x2F;a&gt;。書籍の概要もまとまっている。&lt;&#x2F;p&gt;
+&lt;p&gt;個人的なスタンスとして、いろいろな職種・立場の人のバックグラウンドを理解してクロスファンクショナルチームを作っていきたい。という気持ちが強いので、必然的に興味を持った本。&lt;&#x2F;p&gt;
+&lt;p&gt;そしてその考え方は書籍の中で「他者理解」というワードでたくさん登場した。&lt;&#x2F;p&gt;
+&lt;p&gt;アジャイル、リーンソフトウェア、DevOps（の原則）に共通する2つの価値観として、自己開示と他者理解をベースに5つの対話の目的や手法が紹介されている。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gan-xiang&quot;&gt;感想&lt;&#x2F;h1&gt;
+&lt;p&gt;本書を読んで実感したのは、やはり組織におけるプロダクト開発はそう簡単じゃないということ。&lt;&#x2F;p&gt;
+&lt;p&gt;巷ではスクラム開発のようなHOW（説明責任を果たす対話）を導入する前にWHY（WHYを作り上げる対話）を重要視せよ。という話が多いが、本書はさらに前段階の準備を丁寧に説明している。&lt;&#x2F;p&gt;
+&lt;p&gt;目的が重要！目的が〜、という話だけだと個人的に煮え切らない部分があったがうまくそこを補完して思考が整理できた気がする。&lt;&#x2F;p&gt;
+&lt;p&gt;世間ではAIエンジニアの話が盛り上がったりしているけれど、結局プロダクトを作っていくのは人でしかないし、我々がやることは変わらない。&lt;&#x2F;p&gt;
+&lt;p&gt;信頼し合える人間関係の中で気持ちのいい仕事をする、そのために努力を怠らず丁寧に対話をしていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「正しいものを正しくつくる」を読んだ</title>
+        <published>2023-11-26T00:00:00+00:00</published>
+        <updated>2023-11-26T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-develop-the-right-things-right/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-develop-the-right-things-right/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;m.media-amazon.com&amp;#x2F;images&amp;#x2F;I&amp;#x2F;41txD1eZGrL._SY445_SX342_.jpg &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;直近の業務で不確実性の高い大規模なプロジェクトに取り組んでいて参考にした本。&lt;&#x2F;p&gt;
+&lt;p&gt;市谷さんの書籍は「カイゼンジャーニー」に続けて2冊目。&lt;&#x2F;p&gt;
+&lt;p&gt;ユーザーストーリーより下の粒度の日々の馴染み深いスクラムフレームワークのような話題に閉じず、ユーザーストーリーよりさらに上の粒度のビジョン・ミッション・コンセプトや、MVPを探索するための仮説検証プロセス等についても触れられている。&lt;&#x2F;p&gt;
+&lt;p&gt;他にもプロダクト開発全般の話題がまとまっていて、自分はバックエンドエンジニアだが、プロダクトマネージャーやプロダクトオーターといった職能の人にとっては必読書と言えるような内容だと思う。&lt;&#x2F;p&gt;
+&lt;p&gt;以下、読みながら特に思考が深まったメモを残す。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;biziyonkarasheng-marerumitusiyon&quot;&gt;ビジョンから生まれるミッション&lt;&#x2F;h1&gt;
+&lt;p&gt;プロジェクトという表現は、いつまでにどのくらいのリソースで何ができればヨシ。のように目先の利益が強調され、プロダクト指向が意識されずに進んでいく力学があると感じる。&lt;&#x2F;p&gt;
+&lt;p&gt;それに比べて、プロダクト→ビジョン、プロジェクト→ミッションと置き換えることで、プロダクトチーム以外の人たちにもビジョン（プロダクト）が重要であるということが伝わりやすい。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gu-ke-shi-dian-nobiziyonti-gong-zhe-shi-dian-nomu-de&quot;&gt;顧客視点のビジョン・提供者視点の目的&lt;&#x2F;h1&gt;
+&lt;p&gt;仮説検証の章で仮説キャンバスの説明があった。仮説キャンバスは大きく顧客視点の項目群と提供者視点の項目群が2つに分かれて並び、それぞれにビジョン・目的が置かれるという話。&lt;&#x2F;p&gt;
+&lt;p&gt;顧客視点のビジョンがどれだけ理想的でも、提供者視点としてビジネスを成り立たせる目的が別で必要。といったような使い方をするイメージで理解した。&lt;&#x2F;p&gt;
+&lt;p&gt;プロダクトチームとビジネスチーム間のコミュニケーションをする場所として、仮説キャンバスを活用できるとよいのだろう。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;正直後半の仮説検証型アジャイル開発は理解が難しかった。自分は普段コードを書いている時間のほうが長いのでそりゃそう。&lt;&#x2F;p&gt;
+&lt;p&gt;ただ前半最後のプロダクトオーナーと開発チーム間の越境、に関しては日々の業務と馴染み深いものとして理解をすることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;プロダクトオーナーに近い業務をしながらも技術的な知識を活用し意思決定に携わるようなプロダクトオーナー代行という役割についての説明があったが、自分が目指す役割に近いかもしれない。&lt;&#x2F;p&gt;
+&lt;p&gt;同じく市谷さん著の「組織を芯からアジャイルにする」では組織アジャイルなる分野を扱うらしい。&lt;&#x2F;p&gt;
+&lt;p&gt;越境する視座を高め、徐々に仮説検証型アジャイルや組織アジャイルの理解を深めていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「OAuth徹底入門 セキュアな認可システムを適用するための原則と実践」を読んだ</title>
+        <published>2023-04-21T00:00:00+00:00</published>
+        <updated>2023-04-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-oauth2-in-action/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-oauth2-in-action/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;m.media-amazon.com&amp;#x2F;images&amp;#x2F;I&amp;#x2F;51CaA7dryjL._SX218_BO1,204,203,200_QL40_ML2_.jpg &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;業務でOAuthクライアントの運用・保守はしているが、OAuthを基礎から学んだことがなかったので基礎を固めるために読んだ本。&lt;&#x2F;p&gt;
+&lt;p&gt;認可サーバー、クライアント、保護対象リソースサーバー実装のサンプルコードを交えながら丁寧に説明がされていたのでしっかり理解することができた。&lt;&#x2F;p&gt;
+&lt;p&gt;運用経験があったおかげでスムーズに読み進めたが「13章 OAuth2.0を使ったユーザー認証」の内容は自身の解釈として学びが多かったので考えたことをまとめる。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;oauth2-0haren-zheng-toren-ke-nojian-deyi-cun-xing-ni-zhuan-woxing-uyouren-ke-wochou-xiang-hua-sitashe-ji&quot;&gt;OAuth2.0は認証と認可の間で依存性逆転を行うよう認可を抽象化した設計？&lt;&#x2F;h1&gt;
+&lt;p&gt;上記の問いは理論、運用ともに豊富な人からみると当たり前の解釈かもしれないが、認可が認証に依存をさせない設計を徹底しているのが印象的だった。&lt;&#x2F;p&gt;
+&lt;p&gt;DBリポジトリの抽象に対して実装をDIするように、認可フレームワークとして抽象化されたOAuthでは認証含む実装方法に様々な選択肢を用意している。&lt;&#x2F;p&gt;
+&lt;p&gt;OAuth2.0に限らずアプリケーション設計において認証と認可はコンテキストをはっきりと分けるべき、みたいな話は過去の学び・議論から直感的に理解していたが、OAuth2.0の哲学のようなものに触れることでより良いインターフェースの一例を知ることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;Jsonフィールドレベルのインターフェースだけでなく、リソースに対する認可という形も含めてインターフェースを小さくすることで、よりコンテキスト、依存関係を明確にしたやり取りができる。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;最近はソフトウェア設計に関する学びも飽和してきて「とにかく良いインターフェースに触れること」といったざっくり方針を立てていたが、本書のおかげで方針を実行に移すことができた。&lt;&#x2F;p&gt;
+&lt;p&gt;まあまだ一冊本読んだレベルの知識なので引き続き深掘りしていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「Programming in Haskell 2nd edition」を読んだ</title>
+        <published>2023-04-04T00:00:00+00:00</published>
+        <updated>2023-04-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-programming-haskell/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-programming-haskell/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;cdn.shopify.com&amp;#x2F;s&amp;#x2F;files&amp;#x2F;1&amp;#x2F;1634&amp;#x2F;7169&amp;#x2F;products&amp;#x2F;cover_530x.png?v=1564720482 &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;1年か2年ほど前に途中まで読んで以来、長いこと積読していたHaskell本を読了したので学びを書く。&lt;&#x2F;p&gt;
+&lt;p&gt;特に15章以降が学びが多かったので14章以前は省略する。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lambdanote.com&#x2F;collections&#x2F;haskell&quot;&gt;翻訳版書籍リンク&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;15zhang-chi-yan-ping-jia&quot;&gt;15章 遅延評価&lt;&#x2F;h1&gt;
+&lt;p&gt;Scala構文の &lt;code&gt;lazy val&lt;&#x2F;code&gt;や &lt;code&gt;monix.eval.Task&lt;&#x2F;code&gt;の利用等でどのような挙動とメリットがあるかざっくりは理解していたが、本章では評価戦略の種類から丁寧に比較と説明がされていて理解を深めることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;評価戦略は&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;最内簡約 → 値渡し&lt;&#x2F;li&gt;
+&lt;li&gt;最外簡約 → 名前渡し&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;といった対応になる。&lt;&#x2F;p&gt;
+&lt;p&gt;本章では遅延評価（名前渡し）によって無限リストを生み出す再帰関数の評価を停止させるサンプルコードが紹介されている。&lt;&#x2F;p&gt;
+&lt;p&gt;ここでの学びは「データと制御の分離」という表現を得たこと。&lt;&#x2F;p&gt;
+&lt;p&gt;この表現によって後続の章の内容も理解が進みやすい構成になっていた。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;16zhang-puroguramunolun-zheng&quot;&gt;16章 プログラムの論証&lt;&#x2F;h1&gt;
+&lt;p&gt;本章では等式推論・数学的帰納法・構造的帰納法の紹介の後、最後にコンパイルの正しさを論証している。&lt;&#x2F;p&gt;
+&lt;p&gt;コンパイルの正しさを論証する前に再帰データ型の基底部と再帰部それぞれを分けて証明する例題が紹介されていた。&lt;&#x2F;p&gt;
+&lt;p&gt;コンパイルの正しさの論証に関して、自身は証明の式の適用を順に追っていくのがやっとだったが、数式（ソース言語）・コード・スタックの関係性を把握することができた。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;17zhang-konpairanosuan-chu&quot;&gt;17章 コンパイラーの算出&lt;&#x2F;h1&gt;
+&lt;p&gt;本章では「ソース言語」を「低レベルコード」と「実行する仮想マシン」の2つに変換する流れが解説されている。ここが正に15章の「データと制御の分離」という表現が適用できる箇所だった。&lt;&#x2F;p&gt;
+&lt;p&gt;16章の論証での数式に続いて&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;スタックの型化&lt;&#x2F;li&gt;
+&lt;li&gt;スタックのやり取りを継続渡しへと変換&lt;&#x2F;li&gt;
+&lt;li&gt;コンビネーターとコード型の定義による継続の脱高階関数&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;といった手順で算出が行われていく。&lt;&#x2F;p&gt;
+&lt;p&gt;これまで簡単なインタプリタの実装コード等は読んだことがあったが、より理論的に？コンパイラについて理解を深めることができた&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;guan-shu-xing-puroguraminguhadi-reiyanodezainpatanwochou-xiang-hua-siteiru&quot;&gt;関数型プログラミングは低レイヤのデザインパターンを抽象化している？&lt;&#x2F;h1&gt;
+&lt;p&gt;17章まで読んで頭に浮かんだのが上記の問い。本書で解説されたような低レイヤに限らないとは思うが「データと制御の分離」を行うデザインパターンという新たな理解を得た。&lt;&#x2F;p&gt;
+&lt;p&gt;普段触っているExtensible Effectを用いたatnos-effライブラリでも式として呼び出すコマンドの定義とインタプリタ実行が分離されている。技術的な関心事を独自エフェクトとして抽象化することで比較的簡単な記述で隠蔽された複雑な実装を利用することができる。&lt;&#x2F;p&gt;
+&lt;p&gt;趣味として独自エフェクトを作成する作業はとても楽しかったが、新しいプログラミング言語を作る感覚に近かったのかもしれない。&lt;&#x2F;p&gt;
+&lt;p&gt;思わぬアハ体験をしたのでついブログにまとめた。低レイヤの知識含めまだまだなので精進していきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

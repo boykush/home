@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Poem</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/poem/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-30T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/poem/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>2024年振り返り</title>
+        <published>2024-12-30T00:00:00+00:00</published>
+        <updated>2024-12-30T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/retrospective-2024/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/retrospective-2024/</id>
+        
+        <content type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;5bb116d4-7997-4391-869c-c39e6c1b0445&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;今年はとても怒涛の1年だった、社会人5年目だが社会人になって一番頑張っていたと思う。それもあって記憶が薄いので振り返ってみる&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;kanhuarensultdeng-tan&quot;&gt;カンファレンス・LT登壇&lt;&#x2F;h1&gt;
+&lt;p&gt;今年は初めてカンファレンスで登壇をした、登壇したカンファレンスは2つ&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scala-matsuri&quot;&gt;Scala Matsuri&lt;&#x2F;h2&gt;
+&lt;p&gt;1つ目は06&#x2F;07~09に開催されたScala Matsuri、CFP提出が2月くらいだったのと英語の資料なのもあって年明けには準備を開始していたと思う&lt;&#x2F;p&gt;
+&lt;p&gt;国際カンファレンスで外国の登壇者の人と飲み会をしたことで、海外指向が高まる良い機会になった&lt;&#x2F;p&gt;
+&lt;p&gt;振り返りブログは以下&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;diaries&#x2F;participation-in-a-scala-matsuri-2024&#x2F;&quot;&gt;「ScalaMatsuri 2024」に参加・登壇してきた&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;xpji-ri&quot;&gt;XP祭り&lt;&#x2F;h2&gt;
+&lt;p&gt;2つ目は09&#x2F;28に開催されたXP祭り（ただの祭り好きに見える&lt;&#x2F;p&gt;
+&lt;p&gt;業務でAgileのSwarmingを実践する中で培ったノウハウを外部発信してみようというチャレンジ。これまで関わってこなかったコミュニティだったので不安はあったがとても温かい雰囲気で発表がしやすかった&lt;&#x2F;p&gt;
+&lt;p&gt;余談として、XP祭りコミュニティはAgileのタイムボックス文化なのか時間に厳しいwきっちり切られるLTタイムが楽しかった&lt;&#x2F;p&gt;
+&lt;p&gt;振り返りブログは書いていなかったのでスライドリンク&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;speakerdeck.com&#x2F;boykush&#x2F;best-practices-for-swarming-agile-team&quot;&gt;&amp;quot;Swarming&amp;quot; をコンセプトに掲げるアジャイルチームのベストプラクティス - Speaker Deck&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lt&quot;&gt;LT&lt;&#x2F;h2&gt;
+&lt;p&gt;3&#x2F;22に「Nextbeat Tech Bar：第一回ソフトウェアテストについて考える会」というイベントでLTをしてきた。&lt;&#x2F;p&gt;
+&lt;p&gt;業務でやっていたプロダクト探索での開発初期段階でどうテストをするかというテーマ、振り返りブログは以下&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;diaries&#x2F;lightning-talk-in-nextbeat-techbar&#x2F;&quot;&gt;「第一回ソフトウェアテストについて考える会」というイベントでLTをした&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;du-shu-inpututo&quot;&gt;読書インプット&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;diaries&#x2F;goals-2024&#x2F;&quot;&gt;2024年の目標&lt;&#x2F;a&gt;というブログに書いていたが月に1冊ペースで12冊本を読むという目標を立てており、結果7冊だった&lt;&#x2F;p&gt;
+&lt;p&gt;読んだ本のタイトルたち&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;データ指向アプリケーションデザイン&lt;&#x2F;li&gt;
+&lt;li&gt;組織を変える5つの対話&lt;&#x2F;li&gt;
+&lt;li&gt;SRE サイトリライアビリティエンジニアリング&lt;&#x2F;li&gt;
+&lt;li&gt;関数型ドメインモデリング&lt;&#x2F;li&gt;
+&lt;li&gt;群れはなぜ同じ方向を目指すのか&lt;&#x2F;li&gt;
+&lt;li&gt;Clean Craftmanship&lt;&#x2F;li&gt;
+&lt;li&gt;マスタリングAPIアーキテクチャ&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;目標には達してないがデータ指向アプリケーションデザインとSRE本はかなり分厚いのでよく読み切ったと思う。&lt;&#x2F;p&gt;
+&lt;p&gt;あとは今年から読んだ後に内容をWikiにまとめるようにした、少し時間はかかるけど定着はしやすくなったと感じる&lt;&#x2F;p&gt;
+&lt;p&gt;特に印象に残ったのは3つ&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;detazhi-xiang-apurikesiyondezain&quot;&gt;データ指向アプリケーションデザイン&lt;&#x2F;h2&gt;
+&lt;p&gt;「バックエンド」領域の知識が欲しいならこれを読んでおけ、みたいな本。学生時代に読みたかったなと思う。&lt;&#x2F;p&gt;
+&lt;p&gt;ACID特性やトランザクション分離レベルの話はこれまでインプットした中で一番わかりやすく、今後も読み直す機会はあるはず&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;wiki&#x2F;scraps&#x2F;%E3%83%87%E3%83%BC%E3%82%BF%E6%8C%87%E5%90%91%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.html&quot;&gt;Wiki&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;guan-shu-xing-domeinmoderingu&quot;&gt;関数型ドメインモデリング&lt;&#x2F;h2&gt;
+&lt;p&gt;自身がこれまで実践してきたソフトウェア設計での取り組みを見事に言語化してくれていた。DDDは好きだけれどもプロダクトの規模によって用語がたくさん増えているのはもったいないなと感じていたが、この本の思想がその悩みを解決してくれた&lt;&#x2F;p&gt;
+&lt;p&gt;ブログは以下&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;diaries&#x2F;read-domain-modeling-made-functional&#x2F;&quot;&gt;「関数型ドメインモデリング」関数からサービス、ワークフローまで一貫した設計思想を得ることができる良書&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;masutaringuapiakitekutiya&quot;&gt;マスタリングAPIアーキテクチャ&lt;&#x2F;h2&gt;
+&lt;p&gt;実務経験が足りず知識が足りていなかったAPIアーキテクチャとしてのAPIゲートウェイやサービスメッシュ周辺の技術をとてもわかりやすく理解できた&lt;&#x2F;p&gt;
+&lt;p&gt;この本のおかげでCloud Nativeへの興味が拡がっていき楽しく知識をキャッチアップできている&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boykush.github.io&#x2F;wiki&#x2F;scraps&#x2F;%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0api%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3.html&quot;&gt;Wiki&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;qu-wei-kai-fa&quot;&gt;趣味開発&lt;&#x2F;h1&gt;
+&lt;p&gt;先ほどから貼っているWikiリンクで使われている　、Wikiページを生成するSSG CLIをRustで開発している&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;scraps&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;去年末には v0.9.8 だったバージョンが今や v0.15.7 になっており感慨深い&lt;&#x2F;p&gt;
+&lt;p&gt;機能は揃ってきたので来年は広報に力をいれていきたい。目指せStar100&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;zhuan-zhi-huo-dong&quot;&gt;転職活動&lt;&#x2F;h1&gt;
+&lt;p&gt;最初に怒涛の1年だったと書いたが殆どが転職活動のため、年齢的にはミドルエンジニア中盤といったところで転職活動では実績ベースの評価を多く受けた&lt;&#x2F;p&gt;
+&lt;p&gt;特に実績・知識が薄かったのがクラウド・セキュリティ周りで転職後に読んだマスタリングAPIアーキテクチャの内容をあと半年早くインプットしていれば。と思うことが多々あった。&lt;&#x2F;p&gt;
+&lt;p&gt;カジュアル面談含めると7月から12月で個人的体感ではずいぶん長く感じたが最終的には強い意志で転職先を決められた。エンジニアという職業に対してさらにモチベーション高く活躍していきたい&lt;&#x2F;p&gt;
+&lt;p&gt;キリよく来年1月入社！&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;sonota-matome&quot;&gt;その他・まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;20代後半で健康に気を使うようになり今年はたくさん運動した。色々やってはやらなくなったが少なくともランニングとボルダリングは継続していきたい。&lt;&#x2F;p&gt;
+&lt;p&gt;正直世の中的にはSNSを見て嫌な思いをすることや単純に気が沈むことも増えた。来年は転職先で精一杯がんばりつつ人生についてもしっかり考えられる年にしていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>2024年の目標</title>
+        <published>2024-01-13T00:00:00+00:00</published>
+        <updated>2024-01-13T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/goals-2024/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/goals-2024/</id>
+        
+        <content type="html">&lt;p&gt;「目標」というタイトルにしたけれど大したものでもない。&lt;&#x2F;p&gt;
+&lt;p&gt;今年は本業の方が忙しくなりそうなので最低限のアウトプットはそちらで十分。日々の業務で挑戦的なことができている。&lt;&#x2F;p&gt;
+&lt;p&gt;インプットとしては本を1ヶ月に1冊読みたい。&lt;&#x2F;p&gt;
+&lt;p&gt;ということで普段使っているGitHub Projectsによるタスク管理にイテレーションを導入してみた。&lt;&#x2F;p&gt;
+&lt;p&gt;設定は以下&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;イテレーションは4 weeks&lt;&#x2F;li&gt;
+&lt;li&gt;In ProgressのWIP制限は2&lt;&#x2F;li&gt;
+&lt;li&gt;Backlog Viewを用意&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;まあ1年分のやりたいことを今から決められるわけないのでね。最低限読書の目標を立てつつ、その他は都度イテレーションで決めていければ良いと思う。&lt;&#x2F;p&gt;
+&lt;p&gt;今年もがんばるぞ〜&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>自身のキャリアについて考える</title>
+        <published>2023-05-17T00:00:00+00:00</published>
+        <updated>2023-05-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/think-own-career/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/think-own-career/</id>
+        
+        <content type="html">&lt;p&gt;社会人4年目に入った。&lt;&#x2F;p&gt;
+&lt;p&gt;1on1をしていて自身のキャリアについて話したがあんまりまとまってなかったので言語化する。&lt;&#x2F;p&gt;
+&lt;p&gt;まず1つイメージできているのはアーキテクトやテックリードのような技術スキルに特化していることを期待される役職を経験し、その後エンジニアリングマネージャー（以下、EM）のような役職に就きたいということ。&lt;&#x2F;p&gt;
+&lt;p&gt;プロダクトにしても組織にしても、インターフェース設計力が重要だよな〜と感じることがよくある。自分の中のインターフェース設計とは&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;意図・目的を明確にする&lt;&#x2F;li&gt;
+&lt;li&gt;責任範囲・権限を明確にする&lt;&#x2F;li&gt;
+&lt;li&gt;具体のインターフェースをシンプルに小さく用意する&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;といったイメージ。まあDDDやマイクロサービスの文脈で語られることの言い換えではあるけども。&lt;&#x2F;p&gt;
+&lt;p&gt;インターフェース設計力を鍛えるためには今のままバックエンドを主軸に経験を積むのが効率が良い気がしていて、アーキテクトやテックリードのような役職を経験できるとよいんだろうなと考えている。&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;そして自身の場合、バックエンドの技術だけではなくてプロダクト開発全般の知識を広く浅く学ぶことが多い。がゆえにEMのような役職もイメージはつきやすい。&lt;&#x2F;p&gt;
+&lt;p&gt;プロダクト開発全般の知識を学ぶモチベーションは日々の業務での職種を越えたコミュニケーションを円滑に進めたい目的がおそらく強い。&lt;&#x2F;p&gt;
+&lt;p&gt;SRE、PdM、QAエンジニア、デザイナーといった職種の人たちがどういったバックグラウンドで発言をしているのか。意図を汲むべく学んでいる。&lt;&#x2F;p&gt;
+&lt;p&gt;のでこれらの知識を生かしてキャリアの中で一度はEMのような役割をできればと思っている。&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;ここまで役職を軸に言語化したが、最近は思考が抽象化されてきてあんまり職種にこだわりを持たなくなっている。&lt;&#x2F;p&gt;
+&lt;p&gt;極論、プロダクト開発は意思決定の繰り返しをするだけ。と思うようになっていて、意思決定の質を高めるために各職種がプロフェッショナルに関わっている。自身はその一員になれればよい。&lt;&#x2F;p&gt;
+&lt;p&gt;となると、意思決定の質とは？プロフェッショナルとは？という思考に移るけども今日はここまで。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Howの知識に固執しないこと</title>
+        <published>2022-04-10T00:00:00+00:00</published>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/not-obsessed-to-knowledge/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/not-obsessed-to-knowledge/</id>
+        
+        <content type="html">&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;社会人生活3年目に突入し現職にも慣れてきたことで、チームのフィーチャー開発でバックエンドエンジニアとしての意見を出し、開発方針に対して判断・責任を持つことが増えてきた。&lt;&#x2F;p&gt;
+&lt;p&gt;その中でソフトウェア設計に関する議論で意見をうまく伝えられない機会が何度かあり、スランプのような状態に陥っているので自分の気持ちを整理すべく言語化してみた。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ke-ti-nisi-tutakitukake&quot;&gt;課題に思ったきっかけ&lt;&#x2F;h1&gt;
+&lt;p&gt;特定の領域の知識がある程度成熟してくると、いわゆる「チョットわかる」状態になってくる。自分の場合はDDD（ソフトウェア設計）に関する領域がこれにあたる。&lt;&#x2F;p&gt;
+&lt;p&gt;DDDの目的は「ビジネスドメインをシステムに反映させ、ユーザーのメンタルモデルに寄り添った使いやすいシステムを構築すること」といったように自分は捉えている。（あくまで自分なりの理解を言語化したもの&lt;&#x2F;p&gt;
+&lt;p&gt;ある日デザイナー・PdMの方とデザイン初稿を元にしてデザイン要件についての議論をする際に、DDDの境界づけられたコンテキスト（戦略的設計）の考え方が役に立つと思い説明をしたが、自分が話す時間が長くなり議論を長引かせてしまうことがあった。&lt;&#x2F;p&gt;
+&lt;p&gt;その後も議論を続けていくと、自分がDDDの用語を説明せずとも似たような考え方に基づいた検討は既にされており、お互いの目的に対してギャップはなかった。&lt;&#x2F;p&gt;
+&lt;p&gt;まずやるべきだったのは目的と現状のデザインになった理由を共有することで、DDDの用語を説明することではなかったと反省した。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mu-de-toshou-duan-wosetutonikao-enai&quot;&gt;目的と手段をセットに考えない&lt;&#x2F;h1&gt;
+&lt;p&gt;この話自体、最初に目的を共有するのは当たり前、に尽きるかもしれない。ただHowの知識に固執してしまうと思考がHowに寄ってしまいやすくなる気がする、ので思考が寄らないような心がけから始めたい。&lt;&#x2F;p&gt;
+&lt;p&gt;DDDの境界づけられたコンテキストはあくまで手段でしかない。DDDの目的に対応する考えは職種関係なく持っているかもしれないが、目的と手段をセットにして考えてはいけない。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;zhi-shi-dakedenakushou-wodong-kasu&quot;&gt;知識だけでなく手を動かす&lt;&#x2F;h1&gt;
+&lt;p&gt;関連して最近よく考えるのは知識はあくまで知識でしかないということ。「知識が役に立つ」と考えるのであれば手を動かして何かしらのアウトプットを出すことでわかりやすく伝えたい。&lt;&#x2F;p&gt;
+&lt;p&gt;手を動かすことで考えが明確になり、より説得力のある意見を出せることもあるし、要望にフィットせず意見を改めることもある。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;以上の内容から、「How」の「知識」に固執しないこと。を大事にしたい。&lt;&#x2F;p&gt;
+&lt;p&gt;色々書いたが、プロダクト開発においてどんな考え方に基づいてアウトプットを行うか、職種を超えた共通言語があったほうがコミュニケーションが円滑になるので共通言語は欲しい。&lt;&#x2F;p&gt;
+&lt;p&gt;とはいえ、DDDはあくまで開発者視点で成熟してきた手段なので、何から何まで他の職種の人に理解してもらうのはやりたくないなあ。などと考えていた。&lt;&#x2F;p&gt;
+&lt;p&gt;今日はここまで。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>2021年の振り返り（技術寄り）</title>
+        <published>2021-12-25T00:00:00+00:00</published>
+        <updated>2021-12-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/retrospective-2021/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/retrospective-2021/</id>
+        
+        <content type="html">&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;2022年になり、社会人2年目も終盤に差し掛かるタイミングでこの文章を書いている。&lt;&#x2F;p&gt;
+&lt;p&gt;今回はあくまで個人の視点での振り返りをまとめる。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;cheng-chang-dekitakoto&quot;&gt;成長できたこと&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;dddagilewen-mo-noyuan-ze-nijin-izhi-shi&quot;&gt;DDD・Agile文脈の原則に近い知識&lt;&#x2F;h2&gt;
+&lt;p&gt;今年はパターン寄りの知識よりも、原則に近い部分を学ぶことで日々の業務のベースとなる考え方を身につけることが多かった。&lt;&#x2F;p&gt;
+&lt;p&gt;DDDでいうところの戦略的設計に近い部分にあたる。&lt;&#x2F;p&gt;
+&lt;p&gt;具体的にはEvans本の後半、OOCP本、XP本ｍAgile Testing Condensed等を読んでいた。&lt;&#x2F;p&gt;
+&lt;p&gt;この手の原則を身に着けておくと、自分のアウトプットに理由が持てるので何かと業務・コミュニケーションが円滑に進む気がする。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tddnoshi-jian-wohan-metashi-zhuang-li&quot;&gt;TDDの実践を含めた実装力&lt;&#x2F;h2&gt;
+&lt;p&gt;以前もTDDはなにをするかは理解していたけど、厳密なTDDの実践まで至ったことがなかった。&lt;&#x2F;p&gt;
+&lt;p&gt;しかし2021年は厳密なTDDの実践も経験し、その上で自分なりの実装スタンスを身につけることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;実装スタンスを言語化しろと言われたら難しいけれど、ちゃんとテストしておきたい箇所（主にドメインロジック）から順に手を付けて、
+優先順にコミットを重ねていくイメージ（例としてユースケースにおける主・副シナリオごとに1コミットみたいな粒度が好き&lt;&#x2F;p&gt;
+&lt;p&gt;テスタブルなコードを書いていきたい&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;qaniguan-suruzhi-shi-shi-jian&quot;&gt;QAに関する知識・実践&lt;&#x2F;h2&gt;
+&lt;p&gt;QAに関する知識がほとんどない状態でフィーチャー開発のQAまでを一貫して行う立場になったのでゼロから入門した。&lt;&#x2F;p&gt;
+&lt;p&gt;QAにおける各手法パターン・原則を学び、e2eテストの追加・メンテナンス等を行った。&lt;&#x2F;p&gt;
+&lt;p&gt;受け入れテストまで含めてテストファーストに行っていくような視点が増えるのでとても有意義な経験をした。&lt;&#x2F;p&gt;
+&lt;p&gt;立場に関係なく、「品質はみんなで守ろう」精神でやっていけたらと思う。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;zhang-hai-dui-ying-zhou-rinojing-yan&quot;&gt;障害対応周りの経験&lt;&#x2F;h2&gt;
+&lt;p&gt;障害対応に関わることが何度かあり、その都度濃い経験をした。&lt;&#x2F;p&gt;
+&lt;p&gt;「監視入門」にも障害対応に関係するようなことが書いてあり、学びが深かった。&lt;&#x2F;p&gt;
+&lt;p&gt;システムの信頼性に関して、先人の知恵を身に着けていきたいと思う経験だった&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sonota-enziniaringuquan-ban&quot;&gt;その他エンジニアリング全般&lt;&#x2F;h2&gt;
+&lt;p&gt;2021年中頃に読んだ「エンジニアリング組織論への入門」に書かれている内容がどれも興味深く、「エンジニアリング」という言葉に思いを馳せていた。&lt;&#x2F;p&gt;
+&lt;p&gt;不確実性を潰すためには様々な視点からのアプローチが可能で、学ばなきゃいけないことが本当に多いなと。&lt;&#x2F;p&gt;
+&lt;p&gt;個人のキャリアとして本に書かれている内容をさらに意識するのはもう少しあとのフェーズになると思うが、自分が最終的にやりたいことを今からでも描いていかねばと感じた。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;jian-tukatutake-ti&quot;&gt;見つかった課題&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;shi-yang-she-ji-wojue-mekiruli&quot;&gt;仕様・設計を決めきる力&lt;&#x2F;h2&gt;
+&lt;p&gt;昔から優柔不断な性格である自覚はあったが、フィーチャー開発を設計段階から責任を持って遂行する立場を経験したことで、決めきる力の弱さを痛感した。&lt;&#x2F;p&gt;
+&lt;p&gt;「設計段階に時間をかけずにミニマムに前に進めることが大事」のような考え方もあるが、影響範囲が多い機能だとその後の展望も自分の中に持っておくのが大事で、
+スコープを削って後に回した機能を決める・やりきるタイミングは必ず来る。&lt;&#x2F;p&gt;
+&lt;p&gt;日々の仕様・設計に関する業務を重く捉えすぎるのも良くないと思うが、「自分がこのシステムを作っていくんだ！」という意志を持った経験だった。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;detabesunetutowakudeng-nodi-reiyaji-rinozhi-shi&quot;&gt;データベース・ネットワーク等の低レイヤ寄りの知識&lt;&#x2F;h2&gt;
+&lt;p&gt;エンジニアとして生きていく以上つきまとう課題だとは思うが、障害対応等をしていると自分の実力不足が明確に現れることが多い。&lt;&#x2F;p&gt;
+&lt;p&gt;デッドロックが発生したときに、内部でどのような事象が発生していてどう改善すれば解消できるのか。&lt;&#x2F;p&gt;
+&lt;p&gt;みたいな知識・経験がまだまだ足りず手を動かしながら学びを深める必要性を感じた。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;kuraudohuan-jing-woshou-wodong-kasitegou-zhu-surujing-yan&quot;&gt;クラウド環境を手を動かして構築する経験&lt;&#x2F;h2&gt;
+&lt;p&gt;IDDD本・データ指向アプリケーションデザイン・マイクロサービスパターン等を読んでいると、インプットしている内容の割に自分がゼロから構築できるモノが少ないな〜と感じた。（分散システムやドメインイベントの扱い等&lt;&#x2F;p&gt;
+&lt;p&gt;幸い日々の業務でk8sやkinesis等には触れているので、参考にしつつゼロから構築する経験をしたい。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2022nian-nobao-fu&quot;&gt;2022年の抱負&lt;&#x2F;h1&gt;
+&lt;p&gt;課題もやりたいこともたくさんあるので、2022年に具体的に何をするかは整理途中。&lt;&#x2F;p&gt;
+&lt;p&gt;ざっくり考えている抱負としては、&lt;&#x2F;p&gt;
+&lt;p&gt;「個を出すこと」&lt;&#x2F;p&gt;
+&lt;p&gt;2022年は20代後半に入るので、自分の個性を確立させていきたいな〜、と。
+個性を出して、チーム・会社にとって自分がどういった強みを発揮できるかを言語化していきたい。&lt;&#x2F;p&gt;
+&lt;p&gt;真面目な話ばかりだったけど、まずは楽しく！
+2022年もやっていき。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

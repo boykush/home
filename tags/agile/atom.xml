@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Agile</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/agile/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-02T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/agile/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>「組織を変える5つの対話 --対話を通じてアジャイルな組織文化を創る」を読んだ</title>
+        <published>2024-06-02T00:00:00+00:00</published>
+        <updated>2024-06-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-agile-conversations/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-agile-conversations/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;www.oreilly.co.jp&amp;#x2F;books&amp;#x2F;images&amp;#x2F;picture_large978-4-8144-0064-5.jpeg &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;翻訳エントリは&lt;a href=&quot;https:&#x2F;&#x2F;digitalsoul.hatenadiary.org&#x2F;entry&#x2F;2024&#x2F;01&#x2F;22&#x2F;080833&quot;&gt;こちら&lt;&#x2F;a&gt;。書籍の概要もまとまっている。&lt;&#x2F;p&gt;
+&lt;p&gt;個人的なスタンスとして、いろいろな職種・立場の人のバックグラウンドを理解してクロスファンクショナルチームを作っていきたい。という気持ちが強いので、必然的に興味を持った本。&lt;&#x2F;p&gt;
+&lt;p&gt;そしてその考え方は書籍の中で「他者理解」というワードでたくさん登場した。&lt;&#x2F;p&gt;
+&lt;p&gt;アジャイル、リーンソフトウェア、DevOps（の原則）に共通する2つの価値観として、自己開示と他者理解をベースに5つの対話の目的や手法が紹介されている。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gan-xiang&quot;&gt;感想&lt;&#x2F;h1&gt;
+&lt;p&gt;本書を読んで実感したのは、やはり組織におけるプロダクト開発はそう簡単じゃないということ。&lt;&#x2F;p&gt;
+&lt;p&gt;巷ではスクラム開発のようなHOW（説明責任を果たす対話）を導入する前にWHY（WHYを作り上げる対話）を重要視せよ。という話が多いが、本書はさらに前段階の準備を丁寧に説明している。&lt;&#x2F;p&gt;
+&lt;p&gt;目的が重要！目的が〜、という話だけだと個人的に煮え切らない部分があったがうまくそこを補完して思考が整理できた気がする。&lt;&#x2F;p&gt;
+&lt;p&gt;世間ではAIエンジニアの話が盛り上がったりしているけれど、結局プロダクトを作っていくのは人でしかないし、我々がやることは変わらない。&lt;&#x2F;p&gt;
+&lt;p&gt;信頼し合える人間関係の中で気持ちのいい仕事をする、そのために努力を怠らず丁寧に対話をしていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>「正しいものを正しくつくる」を読んだ</title>
+        <published>2023-11-26T00:00:00+00:00</published>
+        <updated>2023-11-26T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/read-develop-the-right-things-right/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/read-develop-the-right-things-right/</id>
+        
+        <content type="html">&lt;img class=&quot;thumbnail&quot; src=https:&amp;#x2F;&amp;#x2F;m.media-amazon.com&amp;#x2F;images&amp;#x2F;I&amp;#x2F;41txD1eZGrL._SY445_SX342_.jpg &#x2F;&gt;
+&lt;h1 id=&quot;hazimeni&quot;&gt;はじめに&lt;&#x2F;h1&gt;
+&lt;p&gt;直近の業務で不確実性の高い大規模なプロジェクトに取り組んでいて参考にした本。&lt;&#x2F;p&gt;
+&lt;p&gt;市谷さんの書籍は「カイゼンジャーニー」に続けて2冊目。&lt;&#x2F;p&gt;
+&lt;p&gt;ユーザーストーリーより下の粒度の日々の馴染み深いスクラムフレームワークのような話題に閉じず、ユーザーストーリーよりさらに上の粒度のビジョン・ミッション・コンセプトや、MVPを探索するための仮説検証プロセス等についても触れられている。&lt;&#x2F;p&gt;
+&lt;p&gt;他にもプロダクト開発全般の話題がまとまっていて、自分はバックエンドエンジニアだが、プロダクトマネージャーやプロダクトオーターといった職能の人にとっては必読書と言えるような内容だと思う。&lt;&#x2F;p&gt;
+&lt;p&gt;以下、読みながら特に思考が深まったメモを残す。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;biziyonkarasheng-marerumitusiyon&quot;&gt;ビジョンから生まれるミッション&lt;&#x2F;h1&gt;
+&lt;p&gt;プロジェクトという表現は、いつまでにどのくらいのリソースで何ができればヨシ。のように目先の利益が強調され、プロダクト指向が意識されずに進んでいく力学があると感じる。&lt;&#x2F;p&gt;
+&lt;p&gt;それに比べて、プロダクト→ビジョン、プロジェクト→ミッションと置き換えることで、プロダクトチーム以外の人たちにもビジョン（プロダクト）が重要であるということが伝わりやすい。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gu-ke-shi-dian-nobiziyonti-gong-zhe-shi-dian-nomu-de&quot;&gt;顧客視点のビジョン・提供者視点の目的&lt;&#x2F;h1&gt;
+&lt;p&gt;仮説検証の章で仮説キャンバスの説明があった。仮説キャンバスは大きく顧客視点の項目群と提供者視点の項目群が2つに分かれて並び、それぞれにビジョン・目的が置かれるという話。&lt;&#x2F;p&gt;
+&lt;p&gt;顧客視点のビジョンがどれだけ理想的でも、提供者視点としてビジネスを成り立たせる目的が別で必要。といったような使い方をするイメージで理解した。&lt;&#x2F;p&gt;
+&lt;p&gt;プロダクトチームとビジネスチーム間のコミュニケーションをする場所として、仮説キャンバスを活用できるとよいのだろう。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
+&lt;p&gt;正直後半の仮説検証型アジャイル開発は理解が難しかった。自分は普段コードを書いている時間のほうが長いのでそりゃそう。&lt;&#x2F;p&gt;
+&lt;p&gt;ただ前半最後のプロダクトオーナーと開発チーム間の越境、に関しては日々の業務と馴染み深いものとして理解をすることができた。&lt;&#x2F;p&gt;
+&lt;p&gt;プロダクトオーナーに近い業務をしながらも技術的な知識を活用し意思決定に携わるようなプロダクトオーナー代行という役割についての説明があったが、自分が目指す役割に近いかもしれない。&lt;&#x2F;p&gt;
+&lt;p&gt;同じく市谷さん著の「組織を芯からアジャイルにする」では組織アジャイルなる分野を扱うらしい。&lt;&#x2F;p&gt;
+&lt;p&gt;越境する視座を高め、徐々に仮説検証型アジャイルや組織アジャイルの理解を深めていきたい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Swarmingに関するブログを書いた</title>
+        <published>2023-11-08T00:00:00+00:00</published>
+        <updated>2023-11-08T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/write-blog-about-swarming/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/write-blog-about-swarming/</id>
+        
+        <content type="html">&lt;p&gt;MediumにAgileやScrum文脈で語られるSwarmingについてのブログを投稿した&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@boykush&#x2F;best-practices-for-swarming-agile-team-9e2aef20f74e&quot;&gt;“群れる” アジャイルチームのベストプラクティス  | by boykush  | Medium&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Agile周辺は知識と実践の両方が身についてきたのでキャリアとして強みにしていくのもありか？と思いつつ、会社に所属しているときは必要とされる役割を担うだけなのでそこまでこだわりを持てていない。&lt;&#x2F;p&gt;
+&lt;p&gt;今回のブログではSwarmingの良い部分を紹介したけれど、実際にチームでSwarmingを重視する動きをしているとうまくいかないことも多い、ので次関連して外部発信するときはうまくいかない部分も紹介したい。&lt;&#x2F;p&gt;
+&lt;p&gt;あともう一つ悩みがどのプラットフォームでブログを投稿するか。このホームページはハードル低く日記として投稿をしたいので、がっつり文章を書いたブログはMediumに投稿する形で役割を分けてみた。&lt;&#x2F;p&gt;
+&lt;p&gt;まあ目先はどのプラットフォームかは関係なくアウトプット増やすのを重要視したい。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

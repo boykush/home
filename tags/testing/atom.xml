@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Testing</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/testing/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-24T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/testing/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>「第一回ソフトウェアテストについて考える会」というイベントでLTをした</title>
+        <published>2024-03-24T00:00:00+00:00</published>
+        <updated>2024-03-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/lightning-talk-in-nextbeat-techbar/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/lightning-talk-in-nextbeat-techbar/</id>
+        
+        <content type="html">&lt;p&gt;3&#x2F;22（金）に&lt;a href=&quot;https:&#x2F;&#x2F;nextbeat.connpass.com&#x2F;event&#x2F;309287&#x2F;&quot;&gt;Nextbeat Tech Bar：第一回ソフトウェアテストについて考える会&lt;&#x2F;a&gt;というイベントでLTをしてきた&lt;&#x2F;p&gt;
+&lt;p&gt;資料はSpeakerDeckで公開している&lt;&#x2F;p&gt;
+&lt;iframe class=&quot;speakerdeck-iframe&quot; frameborder=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;speakerdeck.com&#x2F;player&#x2F;c6dbcb6d17e0482cb20ec0ce570fb2cf&quot; title=&quot;複雑なドメインを扱うプロダクトの探索フェーズではいつどのようにテストをするのか &#x2F; How to testing during exploratory phase&quot; allowfullscreen=&quot;true&quot; style=&quot;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 &#x2F; 315;&quot; data-ratio=&quot;1.7777777777777777&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;今回からスライド作成をmarpから&lt;a href=&quot;https:&#x2F;&#x2F;ja.sli.dev&#x2F;&quot;&gt;slidev&lt;&#x2F;a&gt;に移行してみた。&lt;&#x2F;p&gt;
+&lt;p&gt;自作Themeがちゃんとできてきたら公開しよう&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

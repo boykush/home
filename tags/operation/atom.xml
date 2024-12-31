@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>Kush&#x27;s Home - Operation</title>
+    <subtitle>ソフトウェアエンジニア。日々は続く</subtitle>
+    <link href="https://boykush.github.io/tags/operation/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://boykush.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-19T00:00:00+00:00</updated>
+    <id>https://boykush.github.io/tags/operation/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>タスク管理をGitHub Projectsに統合した</title>
+        <published>2023-11-19T00:00:00+00:00</published>
+        <updated>2023-11-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://boykush.github.io/diaries/integration-task-management/" type="text/html"/>
+        <id>https://boykush.github.io/diaries/integration-task-management/</id>
+        
+        <content type="html">&lt;p&gt;ホームページ・OSSライブラリ等のリポジトリでIssueを運用しつつ、他の読書記録等のタスクも一箇所で扱いたくなったのでGitHub Projectsに統合した。&lt;&#x2F;p&gt;
+&lt;p&gt;GitHub ProjectsはIssueの自動追加やステータス同期等の最小限のワークフローを備えていて便利。&lt;&#x2F;p&gt;
+&lt;p&gt;読書記録はNotionで行っていたものをIssueへと移行した。リポジトリは以下&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;boykush&#x2F;bookshelf&quot;&gt;boykush&#x2F;bookshelf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;IssueのTODOに各章を列挙しチェックをつけていくことで読書の進捗もわかる。&lt;&#x2F;p&gt;
+&lt;p&gt;読書記録程度だったらNotionのようなデータベースではなく、Issue templateで記録しやすくなっている程度で個人的に十分。&lt;&#x2F;p&gt;
+&lt;p&gt;IssueだったらGitHub Actionsとの接続もできるし、便利なところは使っていきたいですね。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
