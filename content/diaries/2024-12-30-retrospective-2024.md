@@ -85,7 +85,7 @@ ACID特性やトランザクション分離レベルの話はこれまでイン�
 
 この本のおかげでCloud Nativeへの興味が拡がっていき楽しく知識をキャッチアップできている
 
-[Wiki](https://boykush.github.io/wiki/scraps/api-architecture.html)
+[Wiki](https://boykush.github.io/wiki/scraps/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0api%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3.html)
 
 # 趣味開発
 先ほどから貼っているWikiリンクで使われている　、Wikiページを生成するSSG CLIをRustで開発している
