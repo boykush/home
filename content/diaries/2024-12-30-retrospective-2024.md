@@ -7,9 +7,14 @@ tags=["Poem"]
 [extra]
 meta = [
   {property = "og:title", content = "2024年振り返り - Kush's Home"},
-  {property = "twitter:title", content = "2024年振り返り - Kush's Home"}
+  {property = "twitter:title", content = "2024年振り返り - Kush's Home"},
+  {property = "og:image", content = "https://github.com/user-attachments/assets/5bb116d4-7997-4391-869c-c39e6c1b0445"},
+  {property = "twitter:image", content = "https://github.com/user-attachments/assets/5bb116d4-7997-4391-869c-c39e6c1b0445"}
 ]
 +++
+
+![](https://github.com/user-attachments/assets/5bb116d4-7997-4391-869c-c39e6c1b0445)
+
 
 今年はとても怒涛の1年だった、社会人5年目だが社会人になって一番頑張っていたと思う。それもあって記憶が薄いので振り返ってみる
 
